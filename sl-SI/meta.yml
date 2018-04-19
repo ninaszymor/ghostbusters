@@ -1,0 +1,32 @@
+---
+title: Ghostbusters
+hero_image: images / ghostbusters.png
+description: Naredite igro o lovu duhov!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: zelena
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: graditelj, design-0, programiranje-1, fiz-comp-0, izdelava-0, skupnost-0
+interests: igre
+technologies: praska
+site_areas: kodeklub, praska
+steps:
+  - 
+    title: Uvod
+  - 
+    title: Kaj boste potrebovali
+  - 
+    title: Animiranje duha
+  - 
+    title: Naključni duhovi
+  - 
+    title: Lovljenje duhov
+  - 
+    title: Dodajanje rezultata
+  - 
+    title: Dodajanje časovnika
+  - 
+    title: 'Izziv: več predmetov'
+

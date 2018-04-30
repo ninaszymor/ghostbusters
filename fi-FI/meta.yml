@@ -1,0 +1,32 @@
+---
+title: Ghostbusters
+hero_image: Kuvien / ghostbusters.png
+description: Tee peli haamujen tarttumisesta!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: vihreä
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: rakentaja, suunnittelu-0, ohjelmointi-1, fis-comp-0, valmistus-0, yhteisö-0
+interests: pelit
+technologies: naarmu
+site_areas: koodeklubi, naarmu
+steps:
+  - 
+    title: esittely
+  - 
+    title: Mitä tarvitset
+  - 
+    title: Aaveiden animointi
+  - 
+    title: Satunnaiset haamut
+  - 
+    title: Aaveiden ottaminen
+  - 
+    title: Pisteen lisääminen
+  - 
+    title: Ajastimen lisääminen
+  - 
+    title: 'Haaste: enemmän esineitä'
+

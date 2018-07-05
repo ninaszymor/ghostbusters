@@ -1,13 +1,13 @@
 ## Fantômes aléatoires
 
-Votre fantôme est vraiment facile à attraper en ce moment, car il ne bouge pas!
+Ton fantôme est vraiment facile à attraper en ce moment, parce qu'il ne bouge pas!
 
-+ Pouvez-vous ajouter du code à votre fantôme de sorte que, au lieu de rester dans la même position, il apparaît à des positions aléatoires sur l'écran?
++ Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
-\--- hints \--- \--- hint \--- Vous voulez que votre fantôme `passe à` une position aléatoire sur la scène avant d'apparaître à chaque fois. \--- /hint \--- \--- hint \--- Il existe deux ensembles de blocs de codes que vous pouvez utiliser. Celui-ci : ![screenshot](images/ghost-random-blocks-1.png) Ou celui-ci : ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Votre code devrait ressembler à ceci : ![screenshot](images/ghost-random-code-1.png) Ou il peut ressembler à ceci : ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- You want your ghost to `go to` a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- challenge \---
 
-## Défi : plus aléatoire
+## Challenge : plus aléatoire
 
-Pouvez-vous `faire attendre` votre fantôme pour une quantité aléatoire de temps avant d'apparaître? Pouvez-vous utiliser le bloc `mettre à la taille` pour rendre votre fantôme une taille aléatoire chaque fois qu'il apparaît? \--- /challenge \---
+Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---

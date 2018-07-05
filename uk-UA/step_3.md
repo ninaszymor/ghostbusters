@@ -1,4 +1,4 @@
-## Animating a ghost
+## Анімація привида
 
 + Open a new empty Scratch project.
 

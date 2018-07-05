@@ -2,12 +2,12 @@
 
 Vaš duh je v resnici zelo enostavno ujeti, ker se ne premika!
 
-+ Lahko dodate kodo svojemu duhu, da se namesto da bi ostali v istem položaju, pojavi na naključnih položajih na zaslonu?
++ Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
-\--- namige \--- \--- nasvet \--- Želite, da vaš duh `preide na` naključni položaj na odru, preden se prikaže vsakič. \--- / namig \--- \--- nasvet \--- Obstajata dva sklopa kodnih blokov, ki jih lahko uporabite. Ta: ![screenshot](images/ghost-random-blocks-1.png) Ali ta: ![screenshot](images/ghost-random-blocks-2.png) \--- / namige \--- \--- nasvet \--- Vaša koda mora izgledati tako: ![screenshot](images/ghost-random-code-1.png) Ali lahko izgleda tako: ![screenshot](images/ghost-random-code-2.png) \--- / namig \--- \--- - - / namigi \---
+\--- hints \--- \--- hint \--- You want your ghost to `go to` a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
-\--- izziv \---
+\--- challenge \---
 
 ## Izziv: več naključnosti
 
-Ali lahko svoj duh `počakate` naključno količino časa, preden se prikaže? Ali lahko uporabite `blok velikosti` , da bi vaš duh naključno velikost, vsakič, ko se pojavi? \--- / izziv \---
+Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---

@@ -2,12 +2,12 @@
 
 Ovog duha je jako lako uhvatiti jer je nepomičan!
 
-+ Možeš li dodati kôd svom duhu tako da se pojavljuje na nasumičnim mjestima na ekranu umjesto da stoji na istom mjestu?
++ Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to` a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. Ovaj: ![screenshot](images/ghost-random-blocks-1.png) Ili ovaj: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Tvoj kôd bi treba izgledati ovako: ![screenshot](images/ghost-random-code-1.png) Ili ovako: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- You want your ghost to `go to` a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- challenge \---
 
 ## Izazov: više nasumičnosti
 
-Možeš li napraviti promjene u naredbi `čekaj` tako da duh čeka neko vrijeme prije nego što se pojavi? Možeš li koristiti naredbu `postavi veličinu` tako da duh bude različite veličine svaki puta kada se pojavi? \--- /challenge \---
+Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---

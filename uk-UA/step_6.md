@@ -1,6 +1,6 @@
-## Adding a score
+## Додати очки
 
-Let's make things more interesting by keeping score!
+Давайте зробимо гру цікавішою, зберігаючи очки!
 
 + Create a new variable called 'score'.
 

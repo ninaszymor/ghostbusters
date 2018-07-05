@@ -1,0 +1,32 @@
+---
+title: Ghostbusters
+hero_image: images / ghostbusters.png
+description: Tạo trò chơi về bắt bóng ma!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: màu xanh lá
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: Trò chơi
+technologies: vết trầy
+site_areas: codeclub, scratch
+steps:
+  - 
+    title: Giới thiệu
+  - 
+    title: Những gì bạn cần
+  - 
+    title: Hoạt hình một con ma
+  - 
+    title: Bóng ma ngẫu nhiên
+  - 
+    title: Bắt ma
+  - 
+    title: Thêm điểm
+  - 
+    title: Thêm bộ hẹn giờ
+  - 
+    title: 'Thách thức: nhiều đối tượng hơn'
+

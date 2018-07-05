@@ -8,10 +8,10 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: rakentaja, suunnittelu-0, ohjelmointi-1, fis-comp-0, valmistus-0, yhteisö-0
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: pelit
 technologies: naarmu
-site_areas: koodeklubi, naarmu
+site_areas: codeclub, scratch
 steps:
   - 
     title: esittely

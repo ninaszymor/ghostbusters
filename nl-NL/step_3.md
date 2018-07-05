@@ -1,10 +1,10 @@
 ## Beweeg een spook
 
-+ Open a new empty Scratch project.
++ Open een nieuw leeg Scratch-project.
 
 [[[generic-scratch-new-project]]]
 
-+ Add in a new ghost sprite and a suitable stage backdrop.
++ Voeg een nieuwe Spook Sprite (Ghost) toe, en een geschikte achtergrond.
     
     ![screenshot](images/ghost-ghost.png)
 
@@ -12,8 +12,8 @@
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Add code to your ghost so that it appears and disappears forever when you click the flag. Test and save your project.
++ Voeg code toe aan je spook zodat die steeds weer verschijnt en verdwijnt als je op de vlag klikt. Test het en sla je project op.
 
-\--- hints \--- \--- hint \--- Once the `green flag is clicked`, you'll need to make your ghost `hide` for `one second` and then `show` for `one second`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Wanneer op de `groene vlag is geklikt`, moet je spook `een seconde verdwijnen` en dan `een seconde zichtbaar worden`. Dit zal steeds moeten ` herhalen `. \--- /hint \--- \--- hint \--- Dit zijn de blokken die je nodig hebt: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Zo zou het programma eruit moeten zien: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 [[[generic-scratch-saving]]]

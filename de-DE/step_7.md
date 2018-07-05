@@ -1,26 +1,26 @@
 ## Hinzufügen eines Timers
 
-+ Erstelle eine neue Variable namens "Zeit".
++ Create a new variable called 'time'.
 
-+ Kannst du deiner Bühne einen Timer hinzufügen, so dass dein Spieler nur 10 Sekunden hat, um so viele Geister wie möglich zu fangen?
++ Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
     
-    Dein Timer sollte:
+    Your timer should:
     
-    + bei 10 Sekunden beginnen
-    + jede Sekunde herunterzählen
+    + Start at 10 seconds
+    + Count down every second
     
-    Das Spiel soll aufhören, wenn der Timer auf 0 steht.
+    The game should stop when the timer gets to 0.
 
-\--- hints \--- \--- hint \--- `Wenn die grüne Flagge geklickt wird`, sollte deine `Zeit`-Variable auf `10 gesetzt werden`. Sie sollte dann jede Sekunde `um -1 geändert` werden `bis sie 0 erreicht`. \--- /hint \--- \--- hint \--- Hier sind die Code-Blöcke, die Du brauchen wirst: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- So fügst Du deinem Spiel den Timer hinzu: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
 
-Und so machst du den `Zeit = 0` Block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
-+ Bitte eine/n Freund/in, dein Spiel zu testen. Wie viele Punkte schafft er/sie?
++ Ask a friend to test your game. How many points can they score?
     
-    Wenn dein Spiel zu einfach ist, kannst du:
+    If your game is too easy, you can:
     
-    + dem Spieler weniger Zeit geben
-    + die Geister weniger oft erscheinen lassen
-    + die Geister kleiner machen
+    + Give the player less time
+    + Make the ghosts appear less often
+    + Make the ghosts smaller
     
-    Verändere und teste dein Spiel ein paar Mal, bis du mit dem Schwierigkeitsgrad zufrieden bist.
+    Change and test your game a few times until you're happy that it's the right level of difficulty.

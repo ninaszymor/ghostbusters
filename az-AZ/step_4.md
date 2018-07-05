@@ -2,12 +2,12 @@
 
 Sizin xəyalınız ancaq tutmaq asan deyil, çünki hərəkət etməz!
 
-+ Xəyalınıza kod əlavə edə bilərsinizmi ki, eyni mövqedə qalmağınız yox, ekranda təsadüfi mövqedən görünür?
++ Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
-\--- İpuçları \--- \--- ipucu \--- Hər dəfə görünməzdən əvvəl səhnədə `üçün hayaletin` təsadüfi bir mövqeyə çıxmasını istəyirik. \--- / ipucu \--- \--- ipucu \--- Siz istifadə edə bilən iki blok blokları var. Bu bir: ![screenshot](images/ghost-random-blocks-1.png) Yoxsa bu bir: ![screenshot](images/ghost-random-blocks-2.png) \--- / ipucu \--- \--- ipucu \--- Sizin kodunuz bu şəkildə görünməlidir: ![screenshot](images/ghost-random-code-1.png) Yoxsa belə ola bilər: ![screenshot](images/ghost-random-code-2.png) \--- / hint \--- - - / ipuçları \---
+\--- hints \--- \--- hint \--- You want your ghost to `go to` a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
-\--- çağırış \---
+\--- challenge \---
 
 ## Çağırış: daha çox təsadüf
 
-Görünməzdən qabaq `həyəcanınızı` rastgele bir müddət gözləyin? Göründüyü hər dəfə təsadüfi ölçüsü təsvir etmək üçün `ölçüsü` blokunu istifadə edə bilərsinizmi? \--- / problem
+Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---

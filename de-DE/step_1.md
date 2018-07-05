@@ -7,7 +7,7 @@ Du wirst ein Geisterjagd-Spiel machen!
   <img src="images/ghost-final.png">
 </div>
 
-### Zusätzliche Informationen für Gruppenleiter
+### Additional information for club leaders
 
 Falls du dieses Projekt ausdrucken musst, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
@@ -21,7 +21,7 @@ In diesem Projekt lernen Kinder, wie sie Variablen verwenden, um Daten in ihren 
 
 ## Ressourcen
 
-Für dieses Projekt sollte Scratch 2 verwendet werden. Scratch 2 kann entweder online bei [jumpto.cc/scratch-on{:target="_blank"}](http://jumpto.cc/scratch-on) verwendet werden oder unter [ jumpto.cc/scratch-off{:target="_blank"}](http://jumpto.cc/scratch-off) heruntergeladen und offline benutzt werden.
+Für dieses Projekt sollte Scratch 2 verwendet werden. Scratch 2 kann entweder online bei [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) verwendet werden oder unter [ jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) heruntergeladen und offline benutzt werden.
 
 Sie finden eine vollständige Version dieses Projekts [ online ](http://scratch.mit.edu/projects/60787262/#editor) oder zum Download unter dem Link "Projektmaterialien" für dieses Projekt, der Folgendes enthält:
 
@@ -36,44 +36,44 @@ Dieses Projekt deckt Elemente folgender Stränge des [Raspberry Pi Digital Makin
 
 * [Verwendung grundlegender Programmierkonstrukte, um einfache Programme zu erstellen.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-### Zusätzliche Informationen für Gruppenleiter
+### Additional information for club leaders
 
-Falls du dieses Projekt ausdrucken musst, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 ## \--- collapse \---
 
-## title: Hinweise für Gruppenleiter
+## title: Club leader notes
 
-## Einleitung:
+## Introduction:
 
-In diesem Projekt lernen Kinder, wie sie Variablen verwenden, um Daten in ihren Programmen zu speichern.
+In this project, children will learn how to use variables to store data in their programs.
 
-## Ressourcen
+## Resources
 
-Für dieses Projekt sollte Scratch 2 verwendet werden. Scratch 2 kann entweder online bei [ jumpto.cc/scratch-on verwendet werden ](http://jumpto.cc/scratch-on), oder unter [ jumpto.cc/scratch-off heruntergeladen ](http://jumpto.cc/scratch-off) und offline benutzt werden.
+For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
 
-Sie finden eine vollständige Version dieses Projekts [ online ](http://scratch.mit.edu/projects/60787262/#editor) oder zum Download unter dem Link "Projektmaterialien" für dieses Projekt, der Folgendes enthält:
+You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
 
 * Ghostbusters.sb2
 
-## Lernziele
+## Learning Objectives
 
-* Variablen
-* Zufallszahlen
+* Variables;
+* Random numbers.
 
-Dieses Projekt deckt Elemente folgender Stränge des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Verwendung grundlegender Programmierkonstrukte, um einfache Programme zu erstellen.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Challenges
 
-* "Mehr Zufälligkeit" - mit Zufallszahlen;
-* "Einen Klang hinzufügen" - das Wissen über Sounds festigen;
-* "Mehr Objekte" - Erlerntes anwenden, um ein neues Spielobjekt zu gestalten.
+* "More randomness" - using random numbers;
+* "Adding a sound" - consolidating the learning of sounds;
+* "More objects" - applying skills to create another game object.
 
-## Häufig Gestellte Fragen
+## Frequently Asked Questions
 
-* Wenn Kinder Schwierigkeiten haben, auf die Geister zu klicken, ohne sie herumzuziehen, können sie das Spiel im Vollbildmodus spielen, in dem die Geister sich nicht verschieben lassen.
+* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
 
 ![screenshot](images/ghost-fullscreen.png)
 
@@ -81,9 +81,9 @@ Dieses Projekt deckt Elemente folgender Stränge des [Raspberry Pi Digital Makin
 
 ## \--- collapse \---
 
-## title: Projektmaterialien
+## title: Project materials
 
-## Ressourcen für Gruppenleiter
+## Club leader resources
 
-* [Vollständiges Scratch 2-Projekt zum Download](resources/Ghostbusters.sb2)
-* [vollständiges Scratch 2-Projekt Online](http://scratch.mit.edu/projects/60787262/#editor)
+* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
+* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---

@@ -5,9 +5,9 @@
 
 \--- challenge \---
 
-## Challenge: más objetos
+## Desafío: más objetos
 
-¿Puede añadir otros objetos a tu juego?
+¿Puedes añadir otros objetos a tu juego?
 
 ![screenshot](images/ghost-final.png)
 

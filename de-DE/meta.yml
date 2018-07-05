@@ -11,7 +11,7 @@ duration: 2
 curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: games
 technologies: scratch
-site_areas: Codeclub, Scratch
+site_areas: codeclub, scratch
 steps:
   - 
     title: Einleitung

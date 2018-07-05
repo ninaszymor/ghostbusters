@@ -2,16 +2,16 @@
 
 Dopustimo, da igralec ujame duhove!
 
-+ Ali lahko vaš duh izgine, ko je ujet?
++ Can you make your ghost disappear when it's been caught?
 
-Moral bi imeti možnost, da kliknejo duhove, da jih ujamejo. Če naletite na težavo, lahko igrate igro v celozaslonskem načinu s klikom na ta gumb:
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- namige \--- \--- nakazilo \--- `Ko kliknete`, mora vaš spretni duh `skriti`. \--- / namig \--- \--- nasvet \--- Vaša koda mora biti taka: ![screenshot](images/ghost-catch-code.png) \--- / hint \--- \--- / namigi \---
+\--- hints \--- \--- hint \--- `When clicked`, your ghost sprite should `hide`. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
-\--- izziv \---
+\--- challenge \---
 
 ## Izziv: dodajanje zvoka
 
-Lahko dobite svoj duh, da zveni vsakič, ko je ujet? \--- / izziv \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---

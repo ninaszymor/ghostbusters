@@ -1,26 +1,26 @@
 ## Een timer toevoegen
 
-+ Create a new variable called 'time'.
++ Maak een nieuwe variabele met de naam 'time'.
 
-+ Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
++ Kun je een timer toevoegen aan het speelveld zodat de speler maar 10 seconden de tijd heeft om zoveel mogelijk spoken te vangen?
     
-    Your timer should:
+    Je timer zou:
     
-    + Start at 10 seconds
-    + Count down every second
+    + Beginnen op 10 seconden
+    + Elke seconde aftellen
     
-    The game should stop when the timer gets to 0.
+    Het spel zou moeten stoppen als de timer op 0 komt.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `Als op de groene vlag is geklikt`, zou de variabele `time` op `10` moeten staan. Door blok ` verander time met -1 ` wordt er afgeteld ` totdat 0 bereikt is `. \--- /hint \--- \--- hint \--- Hier zijn de codeblokken die je nodig hebt: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Hier zie je hoe je de timer in je spel kunt voegen: ![screenshot](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+En zo maak je het `time = 0` blok: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
-+ Ask a friend to test your game. How many points can they score?
++ Vraag een vriend om je spel te testen. Hoeveel punten kan die scoren?
     
-    If your game is too easy, you can:
+    Als je spel te gemakkelijk is, kun je:
     
-    + Give the player less time
-    + Make the ghosts appear less often
-    + Make the ghosts smaller
+    + De speler minder tijd geven
+    + De spoken minder vaak laten verschijnen
+    + De spoken kleiner maken
     
-    Change and test your game a few times until you're happy that it's the right level of difficulty.
+    Verander en test je spel een paar keer totdat je tevreden bent met de moeilijkheidsgraad.

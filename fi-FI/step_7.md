@@ -1,26 +1,26 @@
 ## Ajastimen lisääminen
 
-+ Luo uusi muuttuja nimeltä "aika".
++ Create a new variable called 'time'.
 
-+ Voitteko lisätä ajastimen vaiheesi antamaan soittimesi vain 10 sekuntia, jotta saataisiin mahdollisimman monta haamua?
++ Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
     
-    Ajastimesi pitäisi:
+    Your timer should:
     
-    + Aloita 10 sekunnissa
-    + Laske alas joka sekunti
+    + Start at 10 seconds
+    + Count down every second
     
-    Pelin pitäisi pysähtyä, kun ajastin siirtyy 0: ksi.
+    The game should stop when the timer gets to 0.
 
-\--- vinkit \--- \--- vinkki \--- `Kun vihreä lippu napsautetaan`, `-ajan` muuttuja on `asetettu arvoon 10`. Tämän jälkeen `muutetaan -1` : lla joka toinen `, kunnes se saavuttaa 0`. \--- / hint \--- \--- vinkki \--- Tässä on koodilohkot, joita sinun tulee käyttää: ![screenshot](images/ghost-timer-blocks.png) \--- / hint \--- \--- vinkki \--- Näin voit lisätä ajastimen peli: ![kuvakaappaus](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
 
-Ja näin luodaan `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- / hint \--- \--- / vinkkejä \---
+And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
-+ Pyydä kaveri testata peliäsi. Kuinka monta pistettä he voisivat panostaa?
++ Ask a friend to test your game. How many points can they score?
     
-    Jos peli on liian helppoa, voit:
+    If your game is too easy, you can:
     
-    + Anna soittimelle vähemmän aikaa
-    + Tee kummit näyttävät harvemmin
-    + Tee kummitukset pienemmiksi
+    + Give the player less time
+    + Make the ghosts appear less often
+    + Make the ghosts smaller
     
-    Muuta ja testata peliä muutaman kerran, kunnes olet tyytyväinen siihen, että se on oikea vaikeustaso.
+    Change and test your game a few times until you're happy that it's the right level of difficulty.

@@ -5,19 +5,19 @@
 
 \--- challenge \---
 
-## Challenge: more objects
+## Challenge: більше предметів
 
-Can you add other objects to your game?
+Зможете додати інші предмети до гри?
 
-![screenshot](images/ghost-final.png)
+![скріншот](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+Коли ви додаєте об'єкт, потрібно подумати про такі речі.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ Який їх розмір?
++ Вони будуть з'являтись частіше чи рідше за привидів?
++ Як буде виглядати/звучати, коли їх зловлять?
++ Скільки очок виграє (чи втратить) гравець, коли їх зловить?
 
-If you need help adding another object, you can reuse the steps above!
+Якщо вам потрібна допомога щоб додати предмет, використайте ті ж кроки вище!
 
 \--- /challenge \---

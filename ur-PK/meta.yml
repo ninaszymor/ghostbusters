@@ -1,0 +1,32 @@
+---
+title: گھوسٹبسٹس
+hero_image: تصاویر / ghostbusters.png
+description: ماضی کو پکڑنے کے بارے میں ایک کھیل بنائیں!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: سبز
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: کھیل
+technologies: خرگوش
+site_areas: codeclub, scratch
+steps:
+  - 
+    title: تعارف
+  - 
+    title: آپ کو کیا ضرورت ہے
+  - 
+    title: ایک ماضی کو حرکت پذیری
+  - 
+    title: بے ترتیب ماضی
+  - 
+    title: پکڑنے ماضی
+  - 
+    title: ایک سکور شامل
+  - 
+    title: ٹائمر شامل کرنا
+  - 
+    title: 'چیلنج: مزید اشیاء'
+

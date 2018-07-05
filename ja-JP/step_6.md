@@ -2,14 +2,14 @@
 
 スコアをつけてもっと面白くしましょう！
 
-+ 'スコア'という新しい変数（へんすう）を作成します。
++ Create a new variable called 'score'.
 
 [[[generic-scratch-add-variable]]]
 
-+ プレイヤーのスコアをつけることができますか？おばけをクリックしてつかまえると、とくてんできます。
++ Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
     
-    プレイヤーがおばけをクリックすると、スコアがふえます。
+    Each time a player clicks on a ghost, their score should increase.
     
-    ![スコアを増やす](images/ghost-score-test.png)
+    ![Increasing score](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \--- `グリーンフラッグがクリックされた時`、 `スコア` 変数は `0になります`。 ステージはこのコードを追加するのに一番いい場所です。 `おばけのスプライトがクリックされた時`、 `スコア`は `1点ずつ変わります`。 \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- おばけをクリックしてとくてんするには、こうします。 ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `score` variable should be `set to 0`. The Stage is the best place to add this code. `When the ghost sprite is clicked`, the `score` should be `changed by 1`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---

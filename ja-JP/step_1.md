@@ -7,7 +7,7 @@
   <img src="images/ghost-final.png">
 </div>
 
-### 指導者のための追加情報
+### Additional information for club leaders
 
 このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/ghostbusters/print)を使用してください。
 
@@ -36,54 +36,54 @@
 
 * [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
 
-### 指導者のための追加情報
+### Additional information for club leaders
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/ghostbusters/print)を使用してください。
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 ## \--- collapse \---
 
-## title: 指導者用ノート
+## title: Club leader notes
 
-## はじめに
+## Introduction:
 
-このプロジェクトでは、変数を使ってプログラムにデータを格納する方法を学習します。
+In this project, children will learn how to use variables to store data in their programs.
 
-## 資料
+## Resources
 
-このプロジェクトでは、スクラッチ2を使用して下さい。 スクラッチ2は、オンラインで使用できます。 [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) また、こちら[jumpto.cc/scratchoff](http://jumpto.cc/scratch-off) からダウンロードしてオフラインで使用する事も可能です。
+For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
 
-このプロジェクトの完成版 [online](http://scratch.mit.edu/projects/60787262/#editor)を見つけることができます。また、このプロジェクトの「プロジェクトマテリアル」リンクをクリックしてダウンロードすることもできます。
+You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
 
 * Ghostbusters.sb2
 
-## 学習目標
+## Learning Objectives
 
-* 変数。
-* 乱数。
+* Variables;
+* Random numbers.
 
-このプロジェクトでは [Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)（英語）の柱の一つである、プログラミングの以下の要素を学びます。
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## チャレンジ
+## Challenges
 
-* "もっとランダムに" - 乱数を使用する。
-* "音を入れる" - 音の入れ方
-* "より多くのオブジェクト" - 学んだ事を使って、別のオブジェクトを作成する
+* "More randomness" - using random numbers;
+* "Adding a sound" - consolidating the learning of sounds;
+* "More objects" - applying skills to create another game object.
 
-## よくある質問
+## Frequently Asked Questions
 
-* おばけをドラッグせずにクリックするのが難しい場合、ゲームを全画面表示（ドラッグできないようにする）で遊ぶ事もできます。
+* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
 
-![スクリーンショット](images/ghost-fullscreen.png)
+![screenshot](images/ghost-fullscreen.png)
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title：プロジェクト資料
+## title: Project materials
 
-## 指導者用資料
+## Club leader resources
 
-* [完成版Scratch2プロジェクト（ダウンロード）](resources/Ghostbusters.sb2)
-* [完成版Scratch2プロジェクト（オンライン）](http://scratch.mit.edu/projects/60787262/#editor) \--- / collapse \---
+* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
+* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---

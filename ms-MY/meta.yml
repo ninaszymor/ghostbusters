@@ -1,0 +1,32 @@
+---
+title: Ghostbusters
+hero_image: imej / ghostbusters.png
+description: Buat permainan tentang menangkap hantu!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: hijau
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: permainan
+technologies: awal
+site_areas: codeclub, scratch
+steps:
+  - 
+    title: Pengenalan
+  - 
+    title: Apa yang anda perlukan
+  - 
+    title: Animasi hantu
+  - 
+    title: Hantu rawak
+  - 
+    title: Menangkap hantu
+  - 
+    title: Menambah skor
+  - 
+    title: Menambah pemasa
+  - 
+    title: 'Cabaran: lebih banyak objek'
+

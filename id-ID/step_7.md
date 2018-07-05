@@ -1,4 +1,4 @@
-## Adding a timer
+## Menambahkan pengatur waktu
 
 + Create a new variable called 'time'.
 

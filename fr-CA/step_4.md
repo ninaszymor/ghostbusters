@@ -1,6 +1,6 @@
-## Random ghosts
+## Fantômes aléatoires
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Ton fantôme est vraiment facile à attraper en ce moment, parce qu'il ne bouge pas!
 
 + Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
@@ -8,6 +8,6 @@ Your ghost is really easy to catch at the moment, because it doesn't move!
 
 \--- challenge \---
 
-## Challenge: more randomness
+## Defis: plus aléatoire
 
 Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---

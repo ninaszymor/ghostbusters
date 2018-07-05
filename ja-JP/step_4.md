@@ -2,12 +2,12 @@
 
 今はおばけは動かないので、とても捕まえやすいです。
 
-+ 同じ場所にいるのではなく、画面上でランダムにあらわれるよう、おばけにコードを入れてみましょう。
++ Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
-\--- hints \--- \--- hint \--- あらわれる前に、おばけをステージのランダムな位置に`動かします`。 \--- /hint \--- \--- hint \--- 使用できるブロックは2しゅるいあります。 1つはこれです。 ![screenshot](images/ghost-random-blocks-1.png) もう1つはこれです。 ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- コードの見本はこちらです。 ![screenshot](images/ghost-random-code-1.png) またはこちらです。 ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- You want your ghost to `go to` a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- challenge \---
 
 ## チャレンジ: もっとランダムに
 
-あらわれる前の`待つ`時間をランダムにできますか？ `セットサイズ` ブロックを使用して、ゴーストがあらわれるたびに大きさをランダムにできますか？ \--- /challenge \---
+Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---

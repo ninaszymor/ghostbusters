@@ -7,7 +7,7 @@ Je gaat een spookachtig spel maken!
   <img src="images/ghost-final.png">
 </div>
 
-### Additional information for club leaders
+### Aanvullende informatie voor clubleiders
 
 Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
@@ -36,44 +36,44 @@ Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry P
 
 * [Gebruik basale programmeerconstructies om eenvoudige programma's te maken.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-### Additional information for club leaders
+### Aanvullende informatie voor clubleiders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Opmerkingen voor clubleiders
 
-## Introduction:
+## Inleiding:
 
-In this project, children will learn how to use variables to store data in their programs.
+In dit project leren kinderen variabelen te gebruiken om gegevens in hun programma's op te slaan.
 
-## Resources
+## Bronnen
 
-For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
+Voor dit project moet Scratch 2 worden gebruikt. Scratch 2 kan online worden gebruikt op [ jumpto.cc/scratch-on ](http://jumpto.cc/scratch-on) of kan worden gedownload van [ jumpto.cc/scratchoff ](http://jumpto.cc/scratch-off) en offline gebruikt.
 
-You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
+Je kunt een voltooide versie van dit project [ online vinden ](http://scratch.mit.edu/projects/60787262/#editor), of het kan worden gedownload door te klikken op de link 'Projectmaterialen' voor dit project, dat het volgende bevat:
 
 * Ghostbusters.sb2
 
-## Learning Objectives
+## Leerdoelen
 
-* Variables;
-* Random numbers.
+* Variabelen;
+* Willekeurige getallen.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Gebruik basale programmeerconstructies om eenvoudige programma's te maken.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Uitdagingen
 
-* "More randomness" - using random numbers;
-* "Adding a sound" - consolidating the learning of sounds;
-* "More objects" - applying skills to create another game object.
+* "Meer willekeur" - gebruik willekeurige getallen;
+* "Een geluid toevoegen" - leer over geluiden;
+* "Meer objecten" - vaardigheden toepassen om een ​​ander spelobject te maken.
 
-## Frequently Asked Questions
+## Veelgestelde vragen (Faq's)
 
-* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
+* Als kinderen het moeilijk vinden om op de spoken te klikken zonder ze te verslepen, kunnen ze het spel spelen in de modus voor volledig scherm. Daarin zijn de spoken niet meer versleepbaar.
 
 ![screenshot](images/ghost-fullscreen.png)
 
@@ -81,9 +81,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projectmaterialen
 
-## Club leader resources
+## Clubleider bronnen
 
-* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
-* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+* [Downloadbaar voltooid Scratch 2-project](resources/Ghostbusters.sb2)
+* [ Online voltooid Scratch 2-project ](http://scratch.mit.edu/projects/60787262/#editor) \--- / collapse \---

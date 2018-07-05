@@ -1,10 +1,10 @@
-## Animación de un fantasma
+## Animando un fantasma
 
-+ Abrir un nuevo proyecto de Scratch vacío.
++ Open a new empty Scratch project.
 
 [[[generic-scratch-new-project]]]
 
-+ Añadir un nuevo sprite de fantasma y un fondo de escenario adecuado.
++ Add in a new ghost sprite and a suitable stage backdrop.
     
     ![screenshot](images/ghost-ghost.png)
 
@@ -12,8 +12,8 @@
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Añade un código a tu fantasma para que siempre aparezca y desaparezca cuando hagas clic en la bandera verde. Prueba y guarda tu proyecto.
++ Add code to your ghost so that it appears and disappears forever when you click the flag. Test and save your project.
 
-\--- hints \--- \--- hint \--- Una vez que `se hace clic en la bandera verde`, necesitarás hacer que tu fantasma `esconder` por `un segundo`y luego `mostrar` por `un segundo`. Es necesario que lo repita `por siempre`. \--- /hint \--- \--- hint \--- Aquí están los bloques de código que necesitarás: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- Así es como debería ser tu código: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Once the `green flag is clicked`, you'll need to make your ghost `hide` for `one second` and then `show` for `one second`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 [[[generic-scratch-saving]]]

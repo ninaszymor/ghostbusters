@@ -7,7 +7,7 @@ Stai per creare un gioco di acchiappa-fantasmi!
   <img src="images/ghost-final.png">
 </div>
 
-### Ulteriori informazioni per gli organizzatori dei club
+### Additional information for club leaders
 
 Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
@@ -36,44 +36,44 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Digital M
 
 * [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-### Ulteriori informazioni per gli organizzatori dei club
+### Additional information for club leaders
 
-Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 ## \--- collapse \---
 
-## title: Note per i volontari
+## title: Club leader notes
 
-## Introduzione:
+## Introduction:
 
-In questo progetto, i bambini impareranno ad usare le variabili per immagazzinare i dati nei loro programmi.
+In this project, children will learn how to use variables to store data in their programs.
 
-## Risorse
+## Resources
 
-Per questo progetto, andrebbe usato Scratch 2. Scratch 2 può essere usato online su [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) oppure può essere scaricato da [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) ed essere usato in modalità offline.
+For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
 
-Una versione completa di questo progetto può essere trovata [online](http://scratch.mit.edu/projects/60787262/#editor), o può essere scaricata cliccando il link ‘Materiali del Progetto’, che contiene:
+You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
 
 * Ghostbusters.sb2
 
-## Obiettivi di apprendimento
+## Learning Objectives
 
-* Variabili;
-* Numeri a caso.
+* Variables;
+* Random numbers.
 
-Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Sfide
+## Challenges
 
-* “Ancora casualità” - usare numeri a caso;
-* “Aggiungere un suono” - consolidare l’apprendimento dei suoni;
-* "Altri oggetti” - applicare le conoscenze ottenute per creare altri oggetti all'interno del gioco.
+* "More randomness" - using random numbers;
+* "Adding a sound" - consolidating the learning of sounds;
+* "More objects" - applying skills to create another game object.
 
-## Domande più frequenti
+## Frequently Asked Questions
 
-* Se i bambini trovano difficile cliccare sui fantasmi senza trascinarli, possono giocare in modalità a schermo intero, dove i fantasmi non sono trascinabili.
+* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
 
 ![screenshot](images/ghost-fullscreen.png)
 
@@ -81,9 +81,9 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Digital M
 
 ## \--- collapse \---
 
-## title: Materiali del progetto
+## title: Project materials
 
-## Risorse per gli organizzatori del club
+## Club leader resources
 
-* [Progetto Scratch 2 completo scaricabile](resources/Ghostbusters.sb2)
-* [Progetto Scratch 2 completo online](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---
+* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
+* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---

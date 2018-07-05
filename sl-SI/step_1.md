@@ -7,7 +7,7 @@ Nastopili boste z duhovi!
   <img src="images/ghost-final.png">
 </div>
 
-### Dodatne informacije za vodje klubov
+### Additional information for club leaders
 
 Če želite natisniti ta projekt, uporabite [Tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
@@ -36,54 +36,54 @@ Ta projekt zajema elemente iz naslednjih smernic [učnega načrta za izdelavo di
 
 * [Za izdelavo preprostih programov uporabite osnovne programske konstrukte.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-### Dodatne informacije za vodje klubov
+### Additional information for club leaders
 
-Če želite natisniti ta projekt, uporabite [Tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
-## \--- propad \---
+## \--- collapse \---
 
-## naslov: Opombe vodje kluba
+## title: Club leader notes
 
-## Uvod:
+## Introduction:
 
-V tem projektu se bodo otroci naučili, kako uporabljati spremenljivke za shranjevanje podatkov v svojih programih.
+In this project, children will learn how to use variables to store data in their programs.
 
-## Viri
+## Resources
 
-Za ta projekt je treba uporabiti Scratch 2. Scratch 2 lahko uporabljate v spletu na naslovu [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) ali ga lahko prenesete iz [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) in uporabljate brez povezave.
+For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
 
-Dokončano različico tega projekta najdete [na spletu](http://scratch.mit.edu/projects/60787262/#editor)ali pa ga lahko prenesete s klikom na povezavo »Projektni materiali« za ta projekt, ki vsebuje:
+You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
 
 * Ghostbusters.sb2
 
-## Učni cilji
+## Learning Objectives
 
-* Spremenljivke;
-* Naključne številke.
+* Variables;
+* Random numbers.
 
-Ta projekt zajema elemente iz naslednjih smernic [učnega načrta za izdelavo digitalnega diska](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Za izdelavo preprostih programov uporabite osnovne programske konstrukte.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Izzivi
+## Challenges
 
-* "Več naključnosti" - z uporabo naključnih števil;
-* "Dodajanje zvoka" - utrditev učenja zvokov;
-* "Več predmetov" - uporaba veščin za ustvarjanje drugega predmeta igre.
+* "More randomness" - using random numbers;
+* "Adding a sound" - consolidating the learning of sounds;
+* "More objects" - applying skills to create another game object.
 
-## Pogosto zastavljena vprašanja
+## Frequently Asked Questions
 
-* Če otrokom težko kliknejo duhove, ne da bi jih vlekli, lahko igrajo v celozaslonskem načinu, v katerem duhovi niso zmožni odtipati.
+* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- / kolaps \---
+\--- /collapse \---
 
-## \--- propad \---
+## \--- collapse \---
 
-## naslov: Projektni materiali
+## title: Project materials
 
-## Vire vodij kluba
+## Club leader resources
 
-* [Prenosni zaključen projekt Scratch 2](resources/Ghostbusters.sb2)
-* [Spletni zaključeni projekt Scratch 2](http://scratch.mit.edu/projects/60787262/#editor) \--- / strni \---
+* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
+* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---

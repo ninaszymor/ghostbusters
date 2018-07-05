@@ -1,4 +1,4 @@
-## Adding a timer
+## 타이머 추가하기
 
 + Create a new variable called 'time'.
 

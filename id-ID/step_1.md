@@ -1,6 +1,6 @@
-## Introduction
+## pengantar
 
-You are going to make a ghost-catching game!
+Anda akan membuat game hantu-catching!
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
@@ -9,32 +9,32 @@ You are going to make a ghost-catching game!
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+Jika Anda perlu mencetak proyek ini, silakan gunakan [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
-## \--- collapse \---
+## \--- jatuh \---
 
-## title: Club leader notes
+## judul: Catatan pemimpin klub
 
-## Introduction:
+## Pengantar:
 
-In this project, children will learn how to use variables to store data in their programs.
+Dalam proyek ini, anak-anak akan belajar bagaimana menggunakan variabel untuk menyimpan data dalam program mereka.
 
-## Resources
+## Sumber daya
 
-For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
+Untuk proyek ini, Scratch 2 harus digunakan. Scratch 2 dapat digunakan secara online di [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) atau dapat diunduh dari [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) dan digunakan secara offline.
 
-You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
+Anda dapat menemukan versi lengkap dari proyek ini [online](http://scratch.mit.edu/projects/60787262/#editor), atau dapat diunduh dengan mengklik tautan 'Project Materials' untuk proyek ini, yang berisi:
 
 * Ghostbusters.sb2
 
-## Learning Objectives
+## Tujuan Pembelajaran
 
-* Variables;
-* Random numbers.
+* Variabel;
+* Angka acak.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Proyek ini mencakup unsur-unsur dari untaian berikut dari [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Gunakan konstruksi pemrograman dasar untuk membuat program sederhana.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ### Additional information for club leaders
 

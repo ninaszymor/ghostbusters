@@ -1,0 +1,32 @@
+---
+title: घोस्टबस्टर्स
+hero_image: images/ghostbusters.png
+description: भूत पकड़ने वाली गेम बनाएँ!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: green
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: games
+technologies: scratch
+site_areas: codeclub, scratch
+steps:
+  - 
+    title: भूमिका
+  - 
+    title: आपको क्या चाहिए
+  - 
+    title: भूत की एनिमेशन बनाना
+  - 
+    title: बेतरतीब भूत
+  - 
+    title: भूत पकड़ना
+  - 
+    title: स्कोर जोड़ना
+  - 
+    title: टाइमर जोड़ना
+  - 
+    title: 'चुनौती: और ऑब्जेक्ट्स'
+

@@ -2,12 +2,12 @@
 
 Je spook is op dit moment heel gemakkelijk te vangen, omdat hij niet beweegt!
 
-+ Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
++ Kun je code aan je spook toevoegen, zodat die op willekeurige posities op het scherm verschijnt, in plaats van steeds op dezelfde plaats?
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to` a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Je wilt dat het spook met een `ga naar` naar een willekeurige plaats gaat voordat die elke keer verschijnt. \--- / hint \--- \--- hint \--- Er zijn twee sets codeblokken die je kunt gebruiken. Deze: ![screenshot](images/ghost-random-blocks-1.png) Of deze: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Je programma zou er zo uit moeten zien: ![screenshot](images/ghost-random-code-1.png) Of het kan er zo uitzien: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- challenge \---
 
 ## Uitdaging: meer willekeur
 
-Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---
+Kun je je spook een willekeurige hoeveelheid tijd laten wachten met ` wacht ` voordat die verschijnt? Kun je met het ` maak grootte ` blok het spook een willekeurige grootte geven, elke keer dat deze verschijnt? \--- /challenge \---

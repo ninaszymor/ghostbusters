@@ -2,16 +2,16 @@
 
 プレーヤーがおばけを捕まえられるようにしましょう！
 
-+ おばけが捕まったときに消えるようにすることはできますか？
++ Can you make your ghost disappear when it's been caught?
 
-おばけをクリックして捕まえましょう。むずかしければ、このボタンをクリックして全画面モードで遊ぶこともできます。
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
-![スクリーンショット](images/ghost-fullscreen.png)
+![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `クリックされた時`、 おばけは`かくれます`。 \--- /hint \--- \--- hint \--- コードの見本はこちらです。 ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `When clicked`, your ghost sprite should `hide`. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- challenge \---
 
 ## チャレンジ: 音を追加する
 
-おばけが捕まったときに音が出るようにできますか？ \--- /challenge \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---

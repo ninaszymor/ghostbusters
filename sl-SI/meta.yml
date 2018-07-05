@@ -8,10 +8,10 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: graditelj, design-0, programiranje-1, fiz-comp-0, izdelava-0, skupnost-0
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: igre
 technologies: praska
-site_areas: kodeklub, praska
+site_areas: codeclub, scratch
 steps:
   - 
     title: Uvod

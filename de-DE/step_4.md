@@ -2,12 +2,12 @@
 
 Dein Geist ist im Moment wirklich leicht zu fangen, weil er sich nicht bewegt!
 
-+ Kannst du deinem Geist Code hinzufügen, so dass er an zufälligen Positionen auf dem Bildschirm erscheint, anstatt an ein und derselben Stelle zu bleiben?
++ Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
-\--- hints \--- \--- hint \--- Bringe dein Gespenst dazu, vor jedem Erscheinen zu einer zufälligen Position `zu gehen`. \--- /hint \--- \--- hint \--- Es gibt zwei Sätze von Code-Blöcken, die du verwenden kannst. Diesen: ![screenshot](images/ghost-random-blocks-1.png) Oder diesen: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Dein Code sollte entweder so aussehen: ![screenshot](images/ghost-random-code-1.png) Oder er könnte so aussehen: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- You want your ghost to `go to` a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- challenge \---
 
 ## Challenge: Mehr Zufälligkeit
 
-Kannst du deinen Geist eine zufällige Zeit `warten` lassen, bevor er erscheint? Kannst du dem Gespenst mit dem `setzte Größe auf:`-Block vor jedem Erscheinen eine zufällige Größe geben? \--- /challenge \---
+Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---

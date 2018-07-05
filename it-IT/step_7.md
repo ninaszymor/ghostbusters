@@ -1,26 +1,26 @@
 ## Aggiungere un timer
 
-+ Crea una nuova variabile chiamata 'tempo'.
++ Create a new variable called 'time'.
 
-+ Puoi aggiungere un timer al tuo sfondo per dare al tuo giocatore solo 10 secondi per catturare quanti più fantasmi possibile?
++ Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
     
-    Il tuo timer dovrebbe:
+    Your timer should:
     
-    + Partire da 10 secondi
-    + Contare alla rovescia ogni secondo
+    + Start at 10 seconds
+    + Count down every second
     
-    Il gioco dovrebbe interrompersi quando il timer raggiunge lo 0.
+    The game should stop when the timer gets to 0.
 
-\--- hints \--- \--- hint \--- `Quando si clicca su ⚑`, la tua variabile `tempo` dovrebbe essere `a 10`. Dovrebbe `essere portata a -1` per ogni secondo, `fino a raggiungere 0`. \--- /hint \--- \--- hint \--- Ecco di quali blocchi di codice avrai bisogno: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Ecco come aggiungere un timer al tuo gioco: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
 
-Ecco come creare il blocco `tempo = 0`: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
-+ Chiedi a un amico di provare il gioco. Quanti punti riesce a guadagnare?
++ Ask a friend to test your game. How many points can they score?
     
-    Se il gioco è troppo facile, puoi:
+    If your game is too easy, you can:
     
-    + Dare al giocatore meno tempo
-    + Ridurre la frequenza con cui i fantasmi appaiono
-    + Rimpicciolire i fantasmi
+    + Give the player less time
+    + Make the ghosts appear less often
+    + Make the ghosts smaller
     
-    Prova il gioco un paio di volte fino a quando non sei soddisfatto del livello di difficoltà.
+    Change and test your game a few times until you're happy that it's the right level of difficulty.

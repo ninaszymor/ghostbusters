@@ -6,4 +6,4 @@
 
 ### Softver
 
-+ Scratch 2.0 (bilo za korištenje [ online ](https://scratch.mit.edu/projects/editor/) ili [ offline ](https://scratch.mit.edu/scratch2download/))
++ Scratch 2.0 (za korištenje [online](https://scratch.mit.edu/projects/editor/) ili [offline](https://scratch.mit.edu/scratch2download/))

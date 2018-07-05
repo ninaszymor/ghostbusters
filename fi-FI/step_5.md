@@ -2,16 +2,16 @@
 
 Let's allow pelaaja kiinni haamuja!
 
-+ Voitteko tehdä aaveesi katoavan, kun se on kiinni?
++ Can you make your ghost disappear when it's been caught?
 
-Sinun pitäisi pystyä napsauttamaan aaveita kiinni. Jos löydät tarttumisen vaikeaksi, voit pelata peliä koko näytön tilassa napsauttamalla tätä painiketta:
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
-![kuvakaappaus](images/ghost-fullscreen.png)
+![screenshot](images/ghost-fullscreen.png)
 
-\--- vinkit \--- \--- vinkki \--- `Kun napsautat`, haamukuvasi pitäisi `piilottaa`. \--- / hint \--- \--- vinkka \--- Sinun koodisi pitäisi näyttää tältä: ![screenshot](images/ghost-catch-code.png) \--- / hint \--- \--- / vinkkejä \---
+\--- hints \--- \--- hint \--- `When clicked`, your ghost sprite should `hide`. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
-\--- haaste \---
+\--- challenge \---
 
 ## Haaste: äänen lisääminen
 
-Voitteko saada aaveesi äänen joka kerta kun se kiinni? \--- /haaste \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---

@@ -8,10 +8,10 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: ബിൽഡർ, ഡിസൈൻ -0, പ്രോഗ്രാമിങ് -1, phys-comp-0, ഉൽപാദന-0, കമ്മ്യൂണിറ്റി -0
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: ഗെയിമുകൾ
 technologies: സ്ക്രാച്ച്
-site_areas: കോഡ്ക്ലബ്, സ്ക്രാച്ച്
+site_areas: codeclub, scratch
 steps:
   - 
     title: ആമുഖം

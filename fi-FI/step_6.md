@@ -2,14 +2,14 @@
 
 Tehdään asiat mielenkiintoisemmiksi pitämällä pisteet!
 
-+ Luo uusi muuttuja nimeltä pisteet.
++ Create a new variable called 'score'.
 
 [[[generic-scratch-add-variable]]]
 
-+ Voitko seurata pelaajan pisteet? Pelaajien tulee pistää pisteitä napsauttamalla aaveita kiinni.
++ Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
     
-    Joka kerta, kun pelaaja napsauttaa haamua, niiden pisteet kasvaa.
+    Each time a player clicks on a ghost, their score should increase.
     
-    ![Pistemäärä kasvaa](images/ghost-score-test.png)
+    ![Increasing score](images/ghost-score-test.png)
 
-\--- vinkit \--- \--- vinkit \--- `Kun vihreä lippu napsautetaan`, `-pisteet` muuttuja `asetetaan arvoon 0`. Vaihe on paras paikka tämän koodin lisäämiseen. `Kun Ghost sprite napsautetaan`, `pisteet` olisi `muutettu 1`. \--- / hint \--- \--- vinkki \--- Tässä ovat koodilohkot, joita sinun tulee käyttää: ![screenshot](images/ghost-score-blocks.png) \--- / hint \--- \--- vinkki \--- Näin voit pistää pisteitä klikkaamalla kummituksia : ![screenshot](images/ghost-score-code.png) \--- / hint \--- \--- / vinkit \---
+\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `score` variable should be `set to 0`. The Stage is the best place to add this code. `When the ghost sprite is clicked`, the `score` should be `changed by 1`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---

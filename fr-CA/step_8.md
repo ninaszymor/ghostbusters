@@ -3,21 +3,21 @@
   [Online Completed Project](http://scratch.mit.edu/projects/60787262/#editor){:target="_blank"}
 </div>
 
-\--- challenge \---
+\--- défi \---
 
-## Challenge: more objects
+## Défi: plus d'objets
 
-Can you add other objects to your game?
+Peux-tu ajouter d'autres objets à ton jeu ?
 
-![screenshot](images/ghost-final.png)
+![capture d'écran](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+Quand tu ajoutes un objet, tu dois penser aux éléments suivants.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ Quelle est sa taille ?
++ Apparaîtra-t-il plus ou moins souvent que le fantôme ?
++ À quoi ressemblera-t-il / comment sonnera-t-il quand il sera attrapé ?
++ Combien de points va le jouer marquer (ou perdre) pour l'avoir attrapé ?
 
-If you need help adding another object, you can reuse the steps above!
+Si tu as besoin d'aide pour ajouter un autre objet, tu peux réutiliser les étapes en haute ici !
 
-\--- /challenge \---
+\--- /défi \---

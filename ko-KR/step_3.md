@@ -1,4 +1,4 @@
-## Animating a ghost
+## 유령 움직여 보기
 
 + Open a new empty Scratch project.
 

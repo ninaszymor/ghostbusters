@@ -1,26 +1,26 @@
 ## Taymeri əlavə etmək
 
-+ 'Zaman' adlı yeni bir dəyişən yaradın.
++ Create a new variable called 'time'.
 
-+ Mizkinizə mümkün qədər çox ghosts tutmaq üçün oyunçuya yalnız 10 saniyə vermək üçün bir taymer əlavə edə bilərsinizmi?
++ Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
     
-    Taymeriniz:
+    Your timer should:
     
-    + 10 saniyədə başlayın
-    + Hər saniyə hesablayın
+    + Start at 10 seconds
+    + Count down every second
     
-    Taymeri 0-ə çatanda oyun dayandırılmalıdır.
+    The game should stop when the timer gets to 0.
 
-\--- ipuçları \--- \--- ipucu \--- `Yaşıl bayrağa`tıklandığında, `vaxt` değişkeni `10`'e ayarlanmalıdır. It should then `change by -1` every second `until it reaches 0`. \--- / ipucu \--- \--- ipucu \--- İşdə istifadə etmək üçün lazım olan kod blokları: ![screenshot](images/ghost-timer-blocks.png) \--- / hint \--- \--- ipucu \--- İştirakçıya oyun: ![ekran görüntüsü](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
 
-`vaxt = 0` blokunu yaratmaq üçün: ![screenshot](images/ghost-timer-help.png) \--- / ipucu \--- \--- / göstərişlər \---
+And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
-+ Oyununuzu test etmək üçün dostunuzdan soruşun. Nə qədər bal toplaya bilərlər?
++ Ask a friend to test your game. How many points can they score?
     
-    Oyununuz çox asandırsa, aşağıdakıları edə bilərsiniz:
+    If your game is too easy, you can:
     
-    + Oyunçunu daha az vaxt verin
-    + Hayaletler daha az görünür olun
-    + Xəyalları daha kiçik olun
+    + Give the player less time
+    + Make the ghosts appear less often
+    + Make the ghosts smaller
     
-    Doğru çətinlik səviyyəsi olduğundan xoşbəxt olduğunuz qədər oyununuzu bir neçə dəfə dəyişdirin və test edin.
+    Change and test your game a few times until you're happy that it's the right level of difficulty.

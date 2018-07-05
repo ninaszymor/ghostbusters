@@ -1,26 +1,26 @@
 ## Ajouter un chronomètre
 
-+ Créer une nouvelle variable appelée « temps ».
++ Create a new variable called 'time'.
 
-+ Pouvez-vous ajouter un chronomètre à votre scène pour donner à votre joueur seulement 10 secondes pour attraper autant de fantômes que possible ?
++ Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
     
-    Votre chronomètre devrait :
+    Your timer should:
     
-    + Commencer après 10 secondes
-    + Compte à rebours toutes les secondes
+    + Start at 10 seconds
+    + Count down every second
     
-    Le jeu devrait s'arrêter quand le chronomètre atteindra 0.
+    The game should stop when the timer gets to 0.
 
-\--- hints \--- \--- hint \--- `Quand le drapeau vert est cliqué`, votre variable de `temps` devrait `se mettre à 10`. Il devrait alors `se modifier par -1` chaque seconde `jusqu'à ce qu'il atteigne 0` . \--- /hint \--- \--- hint \--- Voici les blocs de code dont vous aurez besoin: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Voici comment ajouter le chronomètre à votre jeu : ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
 
-Et voici comment créer le bloc de `temps = 0` : ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
-+ Demandez à un ami de tester votre jeu. Combien de points peuvent-ils marquer ?
++ Ask a friend to test your game. How many points can they score?
     
-    Si votre jeu est trop facile, vous pouvez :
+    If your game is too easy, you can:
     
-    + Donner au joueur moins de temps
-    + Faire apparaître les fantômes moins souvent
-    + Rendre les fantômes plus petits
+    + Give the player less time
+    + Make the ghosts appear less often
+    + Make the ghosts smaller
     
-    Modifier et tester votre jeu à quelques reprises jusqu'à ce que vous êtes heureux que c’est le bon niveau de difficulté.
+    Change and test your game a few times until you're happy that it's the right level of difficulty.

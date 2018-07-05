@@ -2,16 +2,16 @@
 
 പ്രേമികളെ പ്രേരിപ്പിക്കാൻ അനുവദിക്കുക
 
-+ പിടിക്കപ്പെടുമ്പോൾ നിങ്ങളുടെ പ്രേതം അപ്രത്യക്ഷമാകുമോ?
++ Can you make your ghost disappear when it's been caught?
 
-അവരെ പിടിക്കാൻ അവരെ പ്രേരിപ്പിക്കാൻ കഴിയും. നിങ്ങൾക്ക് ബുദ്ധിമുട്ടുണ്ടാക്കുന്നതായി കണ്ടാൽ, ബട്ടൺ ക്ലിക്കുചെയ്യുന്നതിലൂടെ നിങ്ങൾക്ക് പൂർണ്ണ സ്ക്രീൻ മോഡിൽ ഗെയിം കളിക്കാനാകും:
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
-![സ്ക്രീൻഷോട്ട്](images/ghost-fullscreen.png)
+![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- ``ക്ലിക്കുചെയ്യുമ്പോൾ, നിങ്ങളുടെ പ്രേത സ്പ്രൈറ്റ് `` മറയ്ക്കണം. \--- / hint \--- \--- hint \--- നിങ്ങളുടെ കോഡ് ഇതുപോലെ ആയിരിയ്ക്കണം: ![screenshot](images/ghost-catch-code.png) \--- / സൂചന \--- \--- / / സൂചനകൾ \---
+\--- hints \--- \--- hint \--- `When clicked`, your ghost sprite should `hide`. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
-\--- വെല്ലുവിളി \---
+\--- challenge \---
 
 ## വെല്ലുവിളി: ഒരു ശബ്ദം ചേർക്കുന്നു
 
-ഓരോ നിമിഷവും പിടിക്കപ്പെടുമ്പോൾ നിങ്ങളുടെ ശബ്ദം നിങ്ങളെ അറിയിക്കുമോ? \--- / വെല്ലുവിളി \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---

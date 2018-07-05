@@ -1,17 +1,17 @@
 ## Πιάνοντας φαντάσματα
 
-Ας επιτρέψεις στον παίκτη να πιάνει φαντάσματα!
+Ας επιτρέψουμε στον παίκτη να πιάνει φαντάσματα!
 
-+ Μπορείς να κάνεις το φάντασμα να εξαφανίζεται όταν πιαστεί;
++ Can you make your ghost disappear when it's been caught?
 
-Θα πρέπει να μπορείς να κάνεις κλικ στα φαντάσματα για να τα πιάσεις. Εάν διαπιστώσεις ότι αυτό είναι δύσκολο, μπορείς να παίξεις το παιχνίδι σε λειτουργία πλήρους οθόνης κάνοντας κλικ σε αυτό το κουμπί:
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `Όταν πατηθεί`, το φάντασμα θα πρέπει να `κρυφτεί`. \--- /hint \--- \--- hint \--- Ο κώδικάς σου θα πρέπει να είναι έτσι: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `When clicked`, your ghost sprite should `hide`. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- challenge \---
 
 ## Πρόκληση: προσθέτοντας έναν ήχο
 
-Μπορείς να κάνεις το φάντασμα να κάνει έναν ήχο κάθε φορά που πιάνεται; \--- /challenge \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---

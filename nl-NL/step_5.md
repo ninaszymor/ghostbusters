@@ -2,16 +2,16 @@
 
 Laten we de speler de gelegenheid geven om ​spoken te vangen!
 
-+ Kun je je spook laten verdwijnen als deze is gepakt?
++ Can you make your ghost disappear when it's been caught?
 
-Je moet op de spoken kunnen klikken om ze te vangen. Als het vangen moeilijk is kun je het spel in volledig schermmodus spelen door op deze knop te klikken:
+You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
 ![screenshot](images/ghost-fullscreen.png)
 
-\--- hints \--- \--- hint \--- `Wanneer op deze sprite wordt geklikt`, zou het spook moeten `verdwijnen`. \--- /hint \--- \--- hint \--- Je programma zou er zo uit moeten zien: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `When clicked`, your ghost sprite should `hide`. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 
 \--- challenge \---
 
 ## Uitdaging: een geluid toevoegen
 
-Kun je je spook een geluid laten maken als die wordt gevangen? \--- /challenge \---
+Can you get your ghost to make a sound each time it's caught? \--- /challenge \---

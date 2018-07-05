@@ -1,6 +1,6 @@
-## Random ghosts
+## Hantu acak
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+Hantu Anda sangat mudah ditangkap saat ini, karena tidak bergerak!
 
 + Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
@@ -8,6 +8,6 @@ Your ghost is really easy to catch at the moment, because it doesn't move!
 
 \--- challenge \---
 
-## Challenge: more randomness
+## Tantangan: lebih banyak keacakan
 
 Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---

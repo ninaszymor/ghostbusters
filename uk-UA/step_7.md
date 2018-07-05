@@ -1,4 +1,4 @@
-## Adding a timer
+## Додати таймер
 
 + Create a new variable called 'time'.
 

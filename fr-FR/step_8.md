@@ -5,19 +5,19 @@
 
 \--- challenge \---
 
-## Défi : plus d'objets
+## Challenge : plus d'objets
 
-Pouvez-vous ajouter d'autres objets à votre jeu ?
+Peux-tu ajouter d'autres objets à ton jeu ?
 
 ![screenshot](images/ghost-final.png)
 
-Quand vous ajoutez un objet, vous devez penser aux éléments suivants.
+Quand tu ajoutes un objet, tu dois penser aux éléments suivants.
 
 + Quelle est sa taille ?
 + Apparaîtra-t-il plus ou moins souvent que le fantôme ?
-+ À quoi ressemblera-t-il / semblera-t-il quand il soit attrapé ?
-+ Combien de points le joueur va-t-il marquer (ou perdre) pour l'avoir attrapé ?
++ À quoi ressemblera-t-il / comment sonnera-t-il quand il sera attrapé ?
++ Combien de points va le jouer marquer (ou perdre) pour l'avoir attrapé ?
 
-Si vous avez besoin d'aide pour ajouter un autre objet, vous pouvez réutiliser les étapes ci-dessus !
+Si tu as besoin d'aide pour ajouter un autre objet, tu peux réutiliser les étapes en haute ici !
 
 \--- /challenge \---

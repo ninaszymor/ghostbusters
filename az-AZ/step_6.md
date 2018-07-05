@@ -2,14 +2,14 @@
 
 Hesab saxlayaraq, hər şeyi daha maraqlı edək!
 
-+ 'Hesab' adlı yeni bir dəyişən yaradın.
++ Create a new variable called 'score'.
 
 [[[generic-scratch-add-variable]]]
 
-+ Oyunçunun hesabını təqib edə bilərsinizmi? Oyunçular onları tutmaq üçün ghosts tıklayarak xal toplamaq lazımdır.
++ Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
     
-    Bir oyunçu bir xəyal üzərinə kliklədikdən sonra onların hesabı artmalıdır.
+    Each time a player clicks on a ghost, their score should increase.
     
-    ![Hesab artırma](images/ghost-score-test.png)
+    ![Increasing score](images/ghost-score-test.png)
 
-\--- ipuçları \--- \--- ipucu \--- `Yaşıl bayrağa`tıklandığında, `hesabınız` dəyişən `olmalıdır 0`. Mərhələ bu kodu əlavə etmək üçün ən yaxşı yerdir. `Hayalet sprite`tıklandığında `puan` `1` tarafından değiştirilmelidir. \--- / hint \--- \--- ipucu \--- İşdə istifadə etmək lazımdır kod blokları: ![screenshot](images/ghost-score-blocks.png) \--- / hint \--- \--- ipucu \--- Burada ghosts tıklayarak xal toplamaq üçün necə : ![screenshot](images/ghost-score-code.png) \--- / ipucu \--- \--- / ipuçları \---
+\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `score` variable should be `set to 0`. The Stage is the best place to add this code. `When the ghost sprite is clicked`, the `score` should be `changed by 1`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---

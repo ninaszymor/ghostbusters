@@ -1,19 +1,19 @@
 ## Aaveiden animointi
 
-+ Avaa uusi tyhjä Scratch-projekti.
++ Open a new empty Scratch project.
 
 [[[generic-scratch-new-project]]]
 
-+ Lisää uusi aave sprite ja sopiva vaiheessa taustalla.
++ Add in a new ghost sprite and a suitable stage backdrop.
     
-    ![kuvakaappaus](images/ghost-ghost.png)
+    ![screenshot](images/ghost-ghost.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Lisää koodi aaveeseesi niin, että se näkyy ja katoaa ikuisesti, kun napsautat lippua. Testaa ja tallenna projekti.
++ Add code to your ghost so that it appears and disappears forever when you click the flag. Test and save your project.
 
-\--- vinkit \--- \--- vinkki \--- Kun `vihreä lippu napsautetaan`, sinun täytyy tehdä aaveesi `piilottaa` `sekunnin` ja sitten `näyttää` `sekunnin`. Tämän täytyy tehdä `ikuisesti`. \--- / hint \--- \--- vinkki \--- Seuraavassa on tarvitsemasi koodilohkot: ![screenshot](images/ghost-appear-blocks.png) \--- / hint \--- \--- vinkki \--- Tätä koodisi pitäisi näyttää: ![screenshot](images/ghost-appear-code.png) \--- / hint \--- \--- / vinkit \---
+\--- hints \--- \--- hint \--- Once the `green flag is clicked`, you'll need to make your ghost `hide` for `one second` and then `show` for `one second`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 [[[generic-scratch-saving]]]

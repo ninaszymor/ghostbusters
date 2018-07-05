@@ -2,14 +2,14 @@
 
 Lass uns die Dinge interessanter machen, indem wir Punkte zählen!
 
-+ Erstelle eine neue Variable namens "Punkte".
++ Create a new variable called 'score'.
 
 [[[generic-scratch-add-variable]]]
 
-+ Kannst du den Punktestand des Spielers mitschreiben? Die Spieler sollten Punkte machen, wenn sie auf Geister klicken, um sie zu fangen.
++ Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
     
-    Jedes Mal, wenn ein Spieler auf einen Geist klickt, sollte sein Punktestand erhöht werden.
+    Each time a player clicks on a ghost, their score should increase.
     
-    ![Punktestand erhöhen](images/ghost-score-test.png)
+    ![Increasing score](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \--- `Wenn die grüne Flagge geklickt wird`, sollte deine `Punkte` Variable auf `0 gesetzt werden`. Am Besten fügst Du diesen Code der Bühne hinzu. Die `Punkte` werden `um 1 geändert`. wenn `die Geister-Figur angeklickt wird`. \--- /hint \--- \--- hint \--- Hier sind die Code-Blöcke, die Du brauchen wirst: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- So sammelt man durch das Klicken auf Geister Punkte: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `score` variable should be `set to 0`. The Stage is the best place to add this code. `When the ghost sprite is clicked`, the `score` should be `changed by 1`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---

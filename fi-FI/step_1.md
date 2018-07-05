@@ -7,7 +7,7 @@ Aiot tehdä haamukuvia!
   <img src="images/ghost-final.png">
 </div>
 
-### Lisätietoja klubin johtajille
+### Additional information for club leaders
 
 Jos haluat tulostaa tämän projektin, käytä [Tulostettava versio](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
@@ -36,54 +36,54 @@ Tämä hanke kattaa [Raspberry Pi Digital Making -opetussuunnitelman](http://rpf
 
 * [Käytä perusohjelmointirakenteita yksinkertaisten ohjelmien luomiseen.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-### Lisätietoja klubin johtajille
+### Additional information for club leaders
 
-Jos haluat tulostaa tämän projektin, käytä [Tulostettava versio](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
-## \--- romahdus \---
+## \--- collapse \---
 
-## otsikko: Klubin johtajat
+## title: Club leader notes
 
-## Johdanto:
+## Introduction:
 
-Tässä hankkeessa lapset oppivat käyttämään muuttujia tallentamaan tietoja ohjelmiinsa.
+In this project, children will learn how to use variables to store data in their programs.
 
-## voimavarat
+## Resources
 
-Tätä hanketta varten olisi käytettävä Scratch 2 -ohjelmaa. Scratch 2 voidaan joko käyttää verkossa [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) tai ladata [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) ja käyttää offline-tilassa.
+For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
 
-Löydät tämän projektin valmiin version [verkossa](http://scratch.mit.edu/projects/60787262/#editor)tai se voidaan ladata klikkaamalla tämän projektin 'Projektin materiaalit' -linkkiä, joka sisältää:
+You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
 
 * Ghostbusters.sb2
 
-## Oppimistavoitteet
+## Learning Objectives
 
-* muuttujat;
-* Satunnaiset numerot.
+* Variables;
+* Random numbers.
 
-Tämä hanke kattaa [Raspberry Pi Digital Making -opetussuunnitelman](http://rpf.io/curriculum) seuraavista osista:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Käytä perusohjelmointirakenteita yksinkertaisten ohjelmien luomiseen.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## haasteet
+## Challenges
 
-* "Lisää satunnaisuutta" - satunnaislukujen avulla;
-* "Äänen lisääminen" - vahvistamalla äänien oppimista;
-* "Lisää esineitä" - soveltamalla taitoja toisen peliolion luomiseksi.
+* "More randomness" - using random numbers;
+* "Adding a sound" - consolidating the learning of sounds;
+* "More objects" - applying skills to create another game object.
 
-## Usein Kysytyt Kysymykset
+## Frequently Asked Questions
 
-* Jos lapsille on vaikea napsauttaa haamuja vetämättä niitä ympäri, he voivat pelata peliä täyskäyttöisessä tilassa, jossa haamuja ei voi vetää.
+* If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
 
-![kuvakaappaus](images/ghost-fullscreen.png)
+![screenshot](images/ghost-fullscreen.png)
 
-\--- / romahdus \---
+\--- /collapse \---
 
-## \--- romahdus \---
+## \--- collapse \---
 
-## otsikko: Projektimateriaalit
+## title: Project materials
 
-## Klubin johtajien resurssit
+## Club leader resources
 
-* [Ladattava valmis Scratch 2 -projekti](resources/Ghostbusters.sb2)
-* [Online valmistunut Scratch 2 -projekti](http://scratch.mit.edu/projects/60787262/#editor) \--- / roma \---
+* [Downloadable completed Scratch 2 project](resources/Ghostbusters.sb2)
+* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/60787262/#editor) \--- /collapse \---

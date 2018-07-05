@@ -1,6 +1,6 @@
-## Adding a score
+## Menambahkan skor
 
-Let's make things more interesting by keeping score!
+Mari buat hal-hal lebih menarik dengan mempertahankan skor!
 
 + Create a new variable called 'score'.
 

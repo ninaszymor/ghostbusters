@@ -1,5 +1,5 @@
 ---
-title: SOS Fantômes
+title: Ghostbusters
 hero_image: images/ghostbusters.png
 description: Faites un jeu sur attraper des fantômes!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
@@ -16,7 +16,7 @@ steps:
   - 
     title: Introduction
   - 
-    title: Ce dont vous aurez besoin
+    title: Ce dont tu auras besoin
   - 
     title: Animer un fantôme
   - 
@@ -28,5 +28,5 @@ steps:
   - 
     title: Ajouter un chronomètre
   - 
-    title: 'Défi : plus d''objets'
+    title: 'Challenge: plus d''objets'
 

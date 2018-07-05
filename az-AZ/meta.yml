@@ -8,10 +8,10 @@ listed: true
 copyedit: true
 ingredient: false
 duration: 2
-curriculum: qurucu, dizayn-0, proqramlaşdırma-1, phys-comp-0, istehsal-0, icma-0
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 interests: oyunlar
 technologies: cızıq
-site_areas: codeclub, sıfırlama
+site_areas: codeclub, scratch
 steps:
   - 
     title: Giriş

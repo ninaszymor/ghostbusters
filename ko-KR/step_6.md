@@ -1,6 +1,6 @@
-## Adding a score
+## 점수 추가하기
 
-Let's make things more interesting by keeping score!
+점수를 기록하게 해서 좀 더 재밌게 만들어 봐요!
 
 + Create a new variable called 'score'.
 

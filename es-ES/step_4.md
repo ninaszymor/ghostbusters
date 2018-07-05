@@ -2,12 +2,12 @@
 
 ¡Tu fantasma es muy fácil de atrapar en este momento, porque no se mueve!
 
-+ ¿Puedes agregar código a tu fantasma para que, en lugar de permanecer en la misma posición, aparezca en posiciones aleatorias en la pantalla?
++ Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
-\--- hints \--- \--- hint \--- Quieres que tu fantasma `vaya a` una posición aleatoria en el escenario antes de aparecer cada vez. \--- /hint \--- \--- hint \--- Hay dos conjuntos de bloques de código que puedes usar. Éste: ![screenshot](images/ghost-random-blocks-1.png) O éste: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Tu código debería ser así: ![screenshot](images/ghost-random-code-1.png) O podría ser así: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- You want your ghost to `go to` a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- challenge \---
 
-## Challenge: más aleatoriedad
+## Desafío: más aleatoriedad
 
-¿Puedes hacer que tu fantasma ` espere ` una cantidad aleatoria de tiempo antes de aparecer? ¿Puedes utilizar el bloque `fijar tamaño` para hacer que tu fantasma tenga un tamaño al azar cada vez que aparece? \--- /challenge \---
+Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---

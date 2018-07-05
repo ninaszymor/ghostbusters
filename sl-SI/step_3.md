@@ -1,10 +1,10 @@
 ## Animiranje duha
 
-+ Odprite nov prazen projekt Scratch.
++ Open a new empty Scratch project.
 
 [[[generic-scratch-new-project]]]
 
-+ Dodaj v nov sprite duh in ustrezno fazo ozadja.
++ Add in a new ghost sprite and a suitable stage backdrop.
     
     ![screenshot](images/ghost-ghost.png)
 
@@ -12,8 +12,8 @@
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Dodajte kodo svojemu duhu, tako da se bo prikazoval in izginil za vedno, ko kliknete zastavo. Preizkusite in shranite svoj projekt.
++ Add code to your ghost so that it appears and disappears forever when you click the flag. Test and save your project.
 
-\--- namige \--- \--- nasvet \--- Ko kliknete `zeleno zastavo`, boste morali narediti svoj duh `skriti` za `eno sekundo` in nato `prikazati` za `eno sekundo`. To bo treba storiti `za vedno`. \--- / namig \--- \--- namig \--- Tukaj so bloki kode, ki jih potrebujete: ![screenshot](images/ghost-appear-blocks.png) \--- / hint \--- \--- hint \--- To je tisto, kar mora videti vaša koda: ![screenshot](images/ghost-appear-code.png) \--- / namig \--- \--- / namigi \---
+\--- hints \--- \--- hint \--- Once the `green flag is clicked`, you'll need to make your ghost `hide` for `one second` and then `show` for `one second`. It will need to do this `forever`. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![screenshot](images/ghost-appear-blocks.png) \--- /hint \--- \--- hint \--- This is what your code should look like: ![screenshot](images/ghost-appear-code.png) \--- /hint \--- \--- /hints \---
 
 [[[generic-scratch-saving]]]

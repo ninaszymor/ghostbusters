@@ -1,6 +1,6 @@
-## Ce dont vous aurez besoin
+## Ce dont tu auras besoin
 
-### Matériel informatique
+### Hardware
 
 + Un ordinateur capable d'exécuter Scratch 2.0
 

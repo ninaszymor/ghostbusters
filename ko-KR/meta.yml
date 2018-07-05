@@ -1,7 +1,7 @@
 ---
-title: Ghostbusters
+title: 고스트버스터즈
 hero_image: images/ghostbusters.png
-description: Make a game about catching ghosts!
+description: 유령 잡기 게임을 만들어 봐요!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
 theme: green
 listed: true
@@ -14,19 +14,19 @@ technologies: scratch
 site_areas: codeclub, scratch
 steps:
   - 
-    title: Introduction
+    title: 소개
   - 
-    title: What you'll need
+    title: 준비물
   - 
-    title: Animating a ghost
+    title: 유령 움직여 보기
   - 
-    title: Random ghosts
+    title: 무작위 유령
   - 
-    title: Catching ghosts
+    title: 유령 잡기
   - 
-    title: Adding a score
+    title: 점수 추가하기
   - 
-    title: Adding a timer
+    title: 타이머 추가하기
   - 
-    title: 'Challenge: more objects'
+    title: '도전 과제: 더 많은 것 추가하기'
 

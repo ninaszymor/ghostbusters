@@ -1,26 +1,26 @@
 ## Dodajanje časovnika
 
-+ Ustvari novo spremenljivko, imenovano »čas«.
++ Create a new variable called 'time'.
 
-+ Lahko dodate časovnik na svojo stopnjo, da svojemu igralcu daste le 10 sekund, da ujame čim več duhov?
++ Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
     
-    Vaš časovnik mora:
+    Your timer should:
     
-    + Začnite pri 10 sekundah
-    + Vsako sekundo preštejte
+    + Start at 10 seconds
+    + Count down every second
     
-    Igra se mora ustaviti, ko se časovnik doseže na 0.
+    The game should stop when the timer gets to 0.
 
-\--- namige \--- \--- nakazilo \--- `Ko kliknete zeleno zastavo`, je `spremenljivka` `nastavljena na 10`. Potem se mora `spremeniti za -1` vsak drugi `, dokler ne doseže 0`. \--- / namig \--- \--- nasvet \--- Tukaj so bloki kode, ki jih boste morali uporabiti: ![screenshot](images/ghost-timer-blocks.png) \--- / hint \--- \--- nasvet \--- Tukaj je, kako dodati časovnik vašemu igra: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
 
-In to je, kako ustvariti `čas = 0` blok: ![screenshot](images/ghost-timer-help.png) \--- / hint \--- \--- / namigi \---
+And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
-+ Prosite prijatelja, da preizkusi svojo igro. Koliko točk lahko doseže?
++ Ask a friend to test your game. How many points can they score?
     
-    Če je vaša igra preveč enostavna, lahko:
+    If your game is too easy, you can:
     
-    + Igralcu dajte manj časa
-    + Duhovi se pojavijo manj pogosto
-    + Duhovi bodo manjši
+    + Give the player less time
+    + Make the ghosts appear less often
+    + Make the ghosts smaller
     
-    Nekajkrat spremenite in preskusite svojo igro, dokler ne boste zadovoljni, da je to prava stopnja težavnosti.
+    Change and test your game a few times until you're happy that it's the right level of difficulty.

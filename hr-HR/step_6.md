@@ -1,6 +1,6 @@
 ## Dodavanje rezultata
 
-Napravimo igru zanimljivijom tako što ćemo dodati rezultat!
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

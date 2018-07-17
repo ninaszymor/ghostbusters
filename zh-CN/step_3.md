@@ -1,4 +1,4 @@
-## 幽灵动画
+## 你将需要什么
 
 + Open a new empty Scratch project.
 
@@ -6,7 +6,7 @@
 
 + Add in a new ghost sprite and a suitable stage backdrop.
     
-    ![screenshot](images/ghost-ghost.png)
+    ![截屏](images/ghost-ghost.png)
 
 [[[generic-scratch-sprite-from-library]]]
 

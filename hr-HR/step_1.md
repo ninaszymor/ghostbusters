@@ -9,30 +9,30 @@ Napravit ćeš igru hvatanja duhova!
 
 ### Additional information for club leaders
 
-Ako trebate ispisati ovaj projekt, koristite [verziju koja je prilagođena pisaču](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 ## \--- collapse \---
 
-## title: Bilješke za voditelje Kluba
+## title: Club leader notes
 
-## Uvod:
+## Introduction:
 
-U ovom projektu djeca će naučiti kako koristiti varijable za spremanje podataka u svoje programe.
+In this project, children will learn how to use variables to store data in their programs.
 
-## Resursi
+## Resources
 
-Za ovaj projekt treba koristiti Scratch 2. Scratch 2 se može koristiti online na [ jumpto.cc/scratch-on ](http://jumpto.cc/scratch-on) ili se može preuzeti s [ jumpto.cc/scratch-off ](http://jumpto.cc/scratch-off) i koristiti offline.
+For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
 
-Dovršenu verziju ovog projekta možete pronaći [online](http://scratch.mit.edu/projects/60787262/#editor) ili preuzeti na poveznici 'Project Materials' koja sadrži:
+You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
 
 * Ghostbusters.sb2
 
-## Ishodi učenja
+## Learning Objectives
 
-* Varijable;
-* Nasumični brojevi.
+* Variables;
+* Random numbers.
 
-Ovaj projekt pokriva elemente iz sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Korištenje osnova programiranja za izradu jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -63,7 +63,7 @@ You can find a completed version of this project [online](http://scratch.mit.edu
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Korištenje osnova programiranja za izradu jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Challenges
 

@@ -1,4 +1,4 @@
-## Adding a timer
+## स्कोर जोड़ना
 
 + Create a new variable called 'time'.
 

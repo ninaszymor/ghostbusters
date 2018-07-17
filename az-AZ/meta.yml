@@ -16,17 +16,17 @@ steps:
   - 
     title: Giriş
   - 
-    title: Nə lazımdırsın
+    title: What you'll need
   - 
-    title: Bir hayaletin canlandırılması
+    title: Animating a ghost
   - 
-    title: Random Ghosts
+    title: Random ghosts
   - 
-    title: Ulduzları tutmaq
+    title: Catching ghosts
   - 
-    title: Hesab əlavə et
+    title: Adding a score
   - 
-    title: Taymeri əlavə etmək
+    title: Adding a timer
   - 
     title: 'Çağırış: daha çox obyekt'
 

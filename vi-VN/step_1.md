@@ -9,30 +9,30 @@ Bạn sẽ tạo ra một trò chơi bắt ma!
 
 ### Additional information for club leaders
 
-Nếu bạn cần in dự án này, hãy sử dụng [phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
 ## \--- collapse \---
 
-## title: Ghi chú dành cho lãnh đạo câu lạc bộ
+## title: Club leader notes
 
-## Giới thiệu:
+## Introduction:
 
-Trong dự án này, trẻ sẽ học cách sử dụng các biến để lưu trữ dữ liệu trong chương trình của các em.
+In this project, children will learn how to use variables to store data in their programs.
 
-## Tài liệu liên quan
+## Resources
 
-Đối với dự án này, Scratch 2 nên được sử dụng. Scratch 2 có thể được sử dụng trực tuyến tại [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) hoặc có thể tải xuống từ [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) và sử dụng ngoại tuyến.
+For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
 
-Bạn có thể tìm thấy phiên bản hoàn thành của dự án này [trực tuyến](http://scratch.mit.edu/projects/60787262/#editor) hoặc có thể tải xuống bằng cách nhấp vào liên kết 'Tài liệu Dự án' cho dự án này, trong đó có:
+You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
 
 * Ghostbusters.sb2
 
-## Mục tiêu học tập
+## Learning Objectives
 
-* Biến;
-* Số ngẫu nhiên.
+* Variables;
+* Random numbers.
 
-Dự án này bao gồm các nội dung sau từ chương trình [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Sử dụng các cấu trúc lập trình cơ bản để tạo các chương trình đơn giản.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -63,7 +63,7 @@ You can find a completed version of this project [online](http://scratch.mit.edu
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Sử dụng các cấu trúc lập trình cơ bản để tạo các chương trình đơn giản.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Challenges
 
@@ -75,7 +75,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 * If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
 
-![screenshot](images/ghost-fullscreen.png)
+![ảnh chụp màn hình](images/ghost-fullscreen.png)
 
 \--- /collapse \---
 

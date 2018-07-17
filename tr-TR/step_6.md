@@ -1,6 +1,6 @@
-## Puan ekleme
+## Adding a score
 
-Puan ekleyerek ve puanları göstererek oyunu daha ilginç hale getirelim!
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

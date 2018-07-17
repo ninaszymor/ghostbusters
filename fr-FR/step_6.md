@@ -1,6 +1,6 @@
-## Ajouter du pointage
+## Ajouter un score
 
-Rendons les choses plus intéressantes en comptant les points !
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

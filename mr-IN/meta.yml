@@ -16,17 +16,17 @@ steps:
   - 
     title: परिचय
   - 
-    title: आपल्याला काय आवश्यक आहे
+    title: What you'll need
   - 
-    title: एक भूत एनिमेटिंग
+    title: Animating a ghost
   - 
-    title: अविशिष्ट भुते
+    title: Random ghosts
   - 
-    title: प्रेक्षकांना पकडणे
+    title: Catching ghosts
   - 
-    title: स्कोअर जोडणे
+    title: Adding a score
   - 
-    title: टाइमर जोडणे
+    title: Adding a timer
   - 
     title: 'आव्हान: अधिक वस्तू'
 

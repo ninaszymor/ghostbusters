@@ -1,4 +1,4 @@
-## Dodajanje časovnika
+## Adding a timer
 
 + Create a new variable called 'time'.
 

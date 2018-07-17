@@ -1,6 +1,6 @@
 ## Aggiungere un punteggio
 
-Rendiamo il gioco più interessante tenendo il punteggio!
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

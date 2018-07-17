@@ -1,4 +1,4 @@
-## ഒരു പ്രേതം
+## Animating a ghost
 
 + Open a new empty Scratch project.
 
@@ -6,7 +6,7 @@
 
 + Add in a new ghost sprite and a suitable stage backdrop.
     
-    ![screenshot](images/ghost-ghost.png)
+    ![സ്ക്രീൻഷോട്ട്](images/ghost-ghost.png)
 
 [[[generic-scratch-sprite-from-library]]]
 

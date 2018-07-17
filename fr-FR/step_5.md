@@ -1,6 +1,6 @@
 ## Attraper des fantômes
 
-Laissons le joueur d'attraper des fantômes!
+Let's allow the player to catch ghosts!
 
 + Can you make your ghost disappear when it's been caught?
 
@@ -12,6 +12,6 @@ You should be able to click ghosts to catch them. If you find the catching diffi
 
 \--- challenge \---
 
-## Challenge: ajouter un son
+## Challenge: adding a sound
 
 Can you get your ghost to make a sound each time it's caught? \--- /challenge \---

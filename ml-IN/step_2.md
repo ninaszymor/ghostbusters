@@ -1,9 +1,9 @@
-## നിങ്ങൾക്ക് എന്ത് വേണം
+## What you will need
 
-### ഹാർഡ്വെയർ
+### Hardware
 
-+ സ്ക്രാച്ച് 2.0 പ്രവർത്തിപ്പിക്കാനുള്ള കമ്പ്യൂട്ടർ
++ Computer capable of running Scratch 2.0
 
-### സോഫ്റ്റ്വെയർ
+### Software
 
-+ സ്ക്രാച്ച് 2.0 ( [ഓൺ](https://scratch.mit.edu/projects/editor/) അല്ലെങ്കിൽ [ഓഫ്ലൈൻ](https://scratch.mit.edu/scratch2download/))
++ Scratch 2.0 (either [online](https://scratch.mit.edu/projects/editor/) or [offline](https://scratch.mit.edu/scratch2download/))

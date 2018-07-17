@@ -1,4 +1,4 @@
-## Adding a timer
+## Přidání časovače
 
 + Create a new variable called 'time'.
 

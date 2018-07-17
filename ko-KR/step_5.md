@@ -1,6 +1,6 @@
 ## 유령 잡기
 
-플레이어가 유령을 잡을 수 있게 해 봐요!
+Let's allow the player to catch ghosts!
 
 + Can you make your ghost disappear when it's been caught?
 
@@ -12,6 +12,6 @@ You should be able to click ghosts to catch them. If you find the catching diffi
 
 \--- challenge \---
 
-## 도전과제: 소리 추가하기
+## Challenge: adding a sound
 
 Can you get your ghost to make a sound each time it's caught? \--- /challenge \---

@@ -1,4 +1,4 @@
-## Adding a score
+## Añadir una puntuación
 
 Let's make things more interesting by keeping score!
 

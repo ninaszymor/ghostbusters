@@ -1,9 +1,9 @@
-## Apa yang Anda butuhkan
+## What you will need
 
-### Perangkat keras
+### Hardware
 
-+ Komputer mampu menjalankan Scratch 2.0
++ Computer capable of running Scratch 2.0
 
-### Perangkat lunak
+### Software
 
-+ Scratch 2.0 (baik [online](https://scratch.mit.edu/projects/editor/) atau [offline](https://scratch.mit.edu/scratch2download/))
++ Scratch 2.0 (either [online](https://scratch.mit.edu/projects/editor/) or [offline](https://scratch.mit.edu/scratch2download/))

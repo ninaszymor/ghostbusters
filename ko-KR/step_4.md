@@ -1,13 +1,13 @@
 ## 무작위 유령들
 
-Your ghost is really easy to catch at the moment, because it doesn't move!
+유령들이 움직이지 않아서 너무 잡기 쉬워요!
 
-+ Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
++ 유령들이 가만히 있는 대신 화면의 임의의 위치에서 나오도록 코드를 추가할 수 있나요?
 
-\--- hints \--- \--- hint \--- You want your ghost to `go to` a random position on the stage before appearing each time. \--- /hint \--- \--- hint \--- There are two sets of code blocks you can use. This one: ![screenshot](images/ghost-random-blocks-1.png) Or this one: ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- Your code should look either like this: ![screenshot](images/ghost-random-code-1.png) Or it can look like this: ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- 유령이 나타날 때 마다 임의의 위치로 `이동하도록` 만들고 싶어요. \--- /hint \--- \--- hint \--- 사용할 수 있는 코드 블럭의 종류가 두 가지 있어요. 이것이나 ![screenshot](images/ghost-random-blocks-1.png) 아니면 이것이에요. ![screenshot](images/ghost-random-blocks-2.png) \--- /hint \--- \--- hint \--- 코드는 이런 형태가 되거나 ![screenshot](images/ghost-random-code-1.png) 혹은 이런 형태가 될 거에요. ![screenshot](images/ghost-random-code-2.png) \--- /hint \--- \--- /hints \---
 
 \--- challenge \---
 
-## Challenge: more randomness
+## 도전 과제: 더 랜덤하게
 
-Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---
+유령이 나타나기 전에 임의의 시간 동안 `기다리게`할 수 있나요? `크기 정하기`블럭을 사용해 유령이 나올 때마다 임의의 크기로 나오게 할 수 있나요? \--- /challenge \---

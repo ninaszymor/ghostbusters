@@ -9,30 +9,30 @@ Nastopili boste z duhovi!
 
 ### Additional information for club leaders
 
-Če želite natisniti ta projekt, uporabite [Tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
-## \--- propad \---
+## \--- collapse \---
 
-## naslov: Opombe vodje kluba
+## title: Club leader notes
 
-## Uvod:
+## Introduction:
 
-V tem projektu se bodo otroci naučili, kako uporabljati spremenljivke za shranjevanje podatkov v svojih programih.
+In this project, children will learn how to use variables to store data in their programs.
 
-## Viri
+## Resources
 
-Za ta projekt je treba uporabiti Scratch 2. Scratch 2 lahko uporabljate v spletu na naslovu [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) ali ga lahko prenesete iz [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) in uporabljate brez povezave.
+For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
 
-Dokončano različico tega projekta najdete [na spletu](http://scratch.mit.edu/projects/60787262/#editor)ali pa ga lahko prenesete s klikom na povezavo »Projektni materiali« za ta projekt, ki vsebuje:
+You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
 
 * Ghostbusters.sb2
 
-## Učni cilji
+## Learning Objectives
 
-* Spremenljivke;
-* Naključne številke.
+* Variables;
+* Random numbers.
 
-Ta projekt zajema elemente iz naslednjih smernic [učnega načrta za izdelavo digitalnega diska](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Za izdelavo preprostih programov uporabite osnovne programske konstrukte.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -63,7 +63,7 @@ You can find a completed version of this project [online](http://scratch.mit.edu
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Za izdelavo preprostih programov uporabite osnovne programske konstrukte.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Challenges
 

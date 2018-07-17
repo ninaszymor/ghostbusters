@@ -16,7 +16,7 @@ steps:
   - 
     title: Introducción
   - 
-    title: Lo que necesitarás
+    title: What you'll need
   - 
     title: Animando un fantasma
   - 
@@ -26,7 +26,7 @@ steps:
   - 
     title: Añadir una puntuación
   - 
-    title: Añadir un temporizador
+    title: Agregar un contador de tiempo
   - 
     title: 'Desafío: más objetos'
 

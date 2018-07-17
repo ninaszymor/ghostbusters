@@ -1,4 +1,4 @@
-## Une animation de fantôme
+## Animer un fantôme
 
 + Open a new empty Scratch project.
 
@@ -6,7 +6,7 @@
 
 + Add in a new ghost sprite and a suitable stage backdrop.
     
-    ![screenshot](images/ghost-ghost.png)
+    ![capture d'écran](images/ghost-ghost.png)
 
 [[[generic-scratch-sprite-from-library]]]
 

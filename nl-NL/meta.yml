@@ -14,19 +14,19 @@ technologies: scratch
 site_areas: codeclub, scratch
 steps:
   - 
-    title: Introductie
+    title: Inleiding
+  - 
+    title: What you'll need
   - 
     title: Wat heb je nodig
   - 
     title: Een spook laten bewegen
   - 
-    title: Willekeurige spoken
+    title: Spoken vangen
   - 
     title: Spoken vangen
   - 
-    title: Een score toevoegen
+    title: Een timer toevoegen
   - 
-    title: Een meting toevoegen
-  - 
-    title: 'Uitdaging: meer hindernissen'
+    title: 'Uitdaging: meer voorwerpen'
 

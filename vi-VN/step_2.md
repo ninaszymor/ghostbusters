@@ -1,9 +1,9 @@
-## Những thứ bạn sẽ cần
+## What you will need
 
-### Phần cứng
+### Hardware
 
-+ Máy tính có khả năng chạy Scratch 2.0
++ Computer capable of running Scratch 2.0
 
-### Phần mềm
+### Software
 
-+ Scratch 2.0 (phiên bản [trực tuyến](https://scratch.mit.edu/projects/editor/) hoặc [ngoại tuyến](https://scratch.mit.edu/scratch2download/))
++ Scratch 2.0 (either [online](https://scratch.mit.edu/projects/editor/) or [offline](https://scratch.mit.edu/scratch2download/))

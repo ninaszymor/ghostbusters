@@ -1,4 +1,4 @@
-## Catching ghosts
+## Ловля призраков
 
 Let's allow the player to catch ghosts!
 

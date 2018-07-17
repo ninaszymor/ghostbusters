@@ -1,6 +1,6 @@
 ## Zufällige Gespenster
 
-Dein Geist ist im Moment wirklich leicht zu fangen, weil er sich nicht bewegt!
+Your ghost is really easy to catch at the moment, because it doesn't move!
 
 + Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
@@ -8,6 +8,6 @@ Dein Geist ist im Moment wirklich leicht zu fangen, weil er sich nicht bewegt!
 
 \--- challenge \---
 
-## Challenge: Mehr Zufälligkeit
+## Challenge: more randomness
 
 Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---

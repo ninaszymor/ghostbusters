@@ -1,4 +1,4 @@
-## Animating a ghost
+## Animace ducha
 
 + Open a new empty Scratch project.
 

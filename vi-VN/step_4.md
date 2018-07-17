@@ -1,6 +1,6 @@
-## Bóng ma di chuyển ngẫu nhiên
+## Random ghosts
 
-Con ma của bạn thực sự dễ bị bắt vào lúc này, bởi vì nó không di chuyển!
+Your ghost is really easy to catch at the moment, because it doesn't move!
 
 + Can you add code to your ghost so that, instead of staying in the same position, it appears at random positions on the screen?
 
@@ -8,6 +8,6 @@ Con ma của bạn thực sự dễ bị bắt vào lúc này, bởi vì nó kh�
 
 \--- challenge \---
 
-## Thử thách: ngẫu nhiên hơn
+## Challenge: more randomness
 
 Can you make your ghost `wait` a random amount of time before appearing? Can you use the `set size` block to make your ghost a random size each time it appears? \--- /challenge \---

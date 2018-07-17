@@ -1,6 +1,6 @@
-## ഒരു സ്കോർ ചേർക്കുന്നു
+## Adding a score
 
-സ്കോർ സൂക്ഷിക്കുന്നതിലൂടെ കാര്യങ്ങൾ കൂടുതൽ രസകരമാക്കാം!
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

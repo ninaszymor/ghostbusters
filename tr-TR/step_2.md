@@ -1,9 +1,9 @@
-## Neye ihtiyacınız olacak
+## What you will need
 
-### Donanım
+### Hardware
 
-+ Scratch 2.0'ı çalıştırabilen bilgisayar
++ Computer capable of running Scratch 2.0
 
-### Yazılım
+### Software
 
-+ Scratch 2.0 ( [online](https://scratch.mit.edu/projects/editor/) ya da [offline](https://scratch.mit.edu/scratch2download/))
++ Scratch 2.0 (either [online](https://scratch.mit.edu/projects/editor/) or [offline](https://scratch.mit.edu/scratch2download/))

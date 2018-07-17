@@ -1,4 +1,4 @@
-## Animiranje duha
+## Animating a ghost
 
 + Open a new empty Scratch project.
 

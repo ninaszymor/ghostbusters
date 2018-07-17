@@ -16,17 +16,17 @@ steps:
   - 
     title: esittely
   - 
-    title: Mitä tarvitset
+    title: What you'll need
   - 
-    title: Aaveiden animointi
+    title: Animating a ghost
   - 
-    title: Satunnaiset haamut
+    title: Random ghosts
   - 
-    title: Aaveiden ottaminen
+    title: Catching ghosts
   - 
-    title: Pisteen lisääminen
+    title: Adding a score
   - 
-    title: Ajastimen lisääminen
+    title: Adding a timer
   - 
     title: 'Haaste: enemmän esineitä'
 

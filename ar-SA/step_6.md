@@ -1,6 +1,6 @@
-## إضافة النتيجة
+## إضافة نتيجة
 
-لنجعل اللعبة أكثر تشويقًا بتسجيل النقاط!
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

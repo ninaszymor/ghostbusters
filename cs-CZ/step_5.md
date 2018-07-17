@@ -1,4 +1,4 @@
-## Catching ghosts
+## Chytání duchů
 
 Let's allow the player to catch ghosts!
 

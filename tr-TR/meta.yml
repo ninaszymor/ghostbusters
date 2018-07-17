@@ -16,17 +16,17 @@ steps:
   - 
     title: Giriş
   - 
-    title: Neye ihtiyacınız olacak?
+    title: What you'll need
   - 
-    title: Bir hayaleti canlandırmak
+    title: Animating a ghost
   - 
-    title: Rastgele hayaletler
+    title: Random ghosts
   - 
-    title: Hayaletler yakalamak
+    title: Catching ghosts
   - 
-    title: Bir skor ekleme
+    title: Adding a score
   - 
-    title: Bir zamanlayıcı eklemek
+    title: Adding a timer
   - 
     title: 'Meydan Okuma: Daha fazla nesne'
 

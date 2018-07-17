@@ -1,6 +1,6 @@
 ## Añadir una puntuación
 
-¡Vamos a hacer las cosas más interesantes añadiendo una puntuación!
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

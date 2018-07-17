@@ -1,4 +1,4 @@
-## Animating a ghost
+## आपको क्या चाहिए
 
 + Open a new empty Scratch project.
 

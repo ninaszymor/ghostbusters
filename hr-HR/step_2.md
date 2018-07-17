@@ -1,9 +1,9 @@
-## Trebat ćeš
+## What you will need
 
-### Hardver
+### Hardware
 
-+ Računalo sposobno za pokretanje Scratch 2.0 verzije
++ Computer capable of running Scratch 2.0
 
-### Softver
+### Software
 
-+ Scratch 2.0 (za korištenje [online](https://scratch.mit.edu/projects/editor/) ili [offline](https://scratch.mit.edu/scratch2download/))
++ Scratch 2.0 (either [online](https://scratch.mit.edu/projects/editor/) or [offline](https://scratch.mit.edu/scratch2download/))

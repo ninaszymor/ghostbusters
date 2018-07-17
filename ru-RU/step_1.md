@@ -1,6 +1,6 @@
-## Introduction
+## Введение
 
-You are going to make a ghost-catching game!
+Ты собираешься сделать игру о ловле призраков!
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/60787262/?autostart=false" frameborder="0"></iframe>
@@ -34,7 +34,7 @@ You can find a completed version of this project [online](http://scratch.mit.edu
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Используй базовые конструкции программирования для создания простых программ.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ### Additional information for club leaders
 
@@ -63,7 +63,7 @@ You can find a completed version of this project [online](http://scratch.mit.edu
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Используй базовые конструкции программирования для создания простых программ.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Challenges
 

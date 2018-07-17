@@ -16,17 +16,17 @@ steps:
   - 
     title: pengantar
   - 
-    title: Apa yang Anda butuhkan
+    title: What you'll need
   - 
     title: Animating a ghost
   - 
-    title: Hantu acak
+    title: Random ghosts
   - 
-    title: Menangkap hantu
+    title: Catching ghosts
   - 
-    title: Menambahkan skor
+    title: Adding a score
   - 
-    title: Menambahkan pengatur waktu
+    title: Adding a timer
   - 
     title: 'Tantangan: lebih banyak objek'
 

@@ -5,19 +5,19 @@
 
 \--- challenge \---
 
-## Challenge: more objects
+## Provocare: mai multe obiecte
 
-Can you add other objects to your game?
+Poți adăuga mai multe obiecte la joc?
 
-![screenshot](images/ghost-final.png)
+![captură de ecran](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+Atunci când vrei să adaugi un obiect, trebuie sa ai în vedere urmatoarele.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ Cât de mare este?
++ Va apărea mai des sau mai rar decât fantoma?
++ Cum va arăta și ce sunet va scoate atunci când e prinsă?
++ Câte puncte va căștiga (sau pierde) jucătorul dacă o prinde?
 
-If you need help adding another object, you can reuse the steps above!
+Dacă dorești să adaugi un obiect, poți folosi etapele de mai devreme!
 
 \--- /challenge \---

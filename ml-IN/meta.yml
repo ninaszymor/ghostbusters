@@ -16,17 +16,17 @@ steps:
   - 
     title: ആമുഖം
   - 
-    title: നിങ്ങൾക്ക് എന്ത് വേണം
+    title: What you'll need
   - 
-    title: ഒരു പ്രേതം
+    title: Animating a ghost
   - 
-    title: ക്രമരഹിതമായ പ്രേതം
+    title: Random ghosts
   - 
-    title: പ്രേതം
+    title: Catching ghosts
   - 
-    title: ഒരു സ്കോർ ചേർക്കുന്നു
+    title: Adding a score
   - 
-    title: ഒരു ടൈമർ ചേർക്കുന്നു
+    title: Adding a timer
   - 
     title: 'വെല്ലുവിളി: കൂടുതൽ വസ്തുക്കൾ'
 

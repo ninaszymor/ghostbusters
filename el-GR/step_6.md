@@ -1,6 +1,6 @@
 ## Προσθήκη βαθμολογίας
 
-Ας κάνεις τα πράγματα πιο ενδιαφέροντα κρατώντας βαθμολογία!
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

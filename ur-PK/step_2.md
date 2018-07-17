@@ -1,9 +1,9 @@
-## آپ کی ضرورت ہو گی
+## What you will need
 
-### ہارڈ ویئر
+### Hardware
 
-+ سکریچ 2.0 چلانے کے قابل کمپیوٹر
++ Computer capable of running Scratch 2.0
 
-### سافٹ ویئر
+### Software
 
-+ سکریچ 2.0 (یا تو [آن](https://scratch.mit.edu/projects/editor/) یا [آف لائن](https://scratch.mit.edu/scratch2download/))
++ Scratch 2.0 (either [online](https://scratch.mit.edu/projects/editor/) or [offline](https://scratch.mit.edu/scratch2download/))

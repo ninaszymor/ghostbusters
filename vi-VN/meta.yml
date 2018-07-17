@@ -16,17 +16,17 @@ steps:
   - 
     title: Giới thiệu
   - 
-    title: Những gì bạn cần
+    title: What you'll need
   - 
-    title: Hoạt hình một con ma
+    title: Animating a ghost
   - 
-    title: Bóng ma ngẫu nhiên
+    title: Random ghosts
   - 
-    title: Bắt ma
+    title: Catching ghosts
   - 
-    title: Thêm điểm
+    title: Adding a score
   - 
-    title: Thêm bộ hẹn giờ
+    title: Adding a timer
   - 
     title: 'Thách thức: nhiều đối tượng hơn'
 

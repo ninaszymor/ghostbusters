@@ -1,4 +1,4 @@
-## Animating a ghost
+## Animando un fantasma
 
 + Open a new empty Scratch project.
 

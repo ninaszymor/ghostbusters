@@ -1,6 +1,6 @@
-## 添加分数
+## 捉鬼
 
-让我们记录得分让游戏变得更加有趣！
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

@@ -9,30 +9,30 @@ Aiot tehdä haamukuvia!
 
 ### Additional information for club leaders
 
-Jos haluat tulostaa tämän projektin, käytä [Tulostettava versio](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/ghostbusters/print).
 
-## \--- romahdus \---
+## \--- collapse \---
 
-## otsikko: Klubin johtajat
+## title: Club leader notes
 
-## Johdanto:
+## Introduction:
 
-Tässä hankkeessa lapset oppivat käyttämään muuttujia tallentamaan tietoja ohjelmiinsa.
+In this project, children will learn how to use variables to store data in their programs.
 
-## voimavarat
+## Resources
 
-Tätä hanketta varten olisi käytettävä Scratch 2 -ohjelmaa. Scratch 2 voidaan joko käyttää verkossa [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) tai ladata [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) ja käyttää offline-tilassa.
+For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
 
-Löydät tämän projektin valmiin version [verkossa](http://scratch.mit.edu/projects/60787262/#editor)tai se voidaan ladata klikkaamalla tämän projektin 'Projektin materiaalit' -linkkiä, joka sisältää:
+You can find a completed version of this project [online](http://scratch.mit.edu/projects/60787262/#editor), or it can be downloaded by clicking the 'Project Materials' link for this project, which contains:
 
 * Ghostbusters.sb2
 
-## Oppimistavoitteet
+## Learning Objectives
 
-* muuttujat;
-* Satunnaiset numerot.
+* Variables;
+* Random numbers.
 
-Tämä hanke kattaa [Raspberry Pi Digital Making -opetussuunnitelman](http://rpf.io/curriculum) seuraavista osista:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Käytä perusohjelmointirakenteita yksinkertaisten ohjelmien luomiseen.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -63,7 +63,7 @@ You can find a completed version of this project [online](http://scratch.mit.edu
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Käytä perusohjelmointirakenteita yksinkertaisten ohjelmien luomiseen.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Challenges
 
@@ -75,7 +75,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 * If children find it difficult to click the ghosts without dragging them around, they can play the game in fullscreen mode, in which ghosts aren't draggable.
 
-![screenshot](images/ghost-fullscreen.png)
+![kuvakaappaus](images/ghost-fullscreen.png)
 
 \--- /collapse \---
 

@@ -1,6 +1,6 @@
-## Dodajanje rezultata
+## Adding a score
 
-Poskrbimo, da bodo stvari bolj zanimive, tako da ohranimo rezultat!
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

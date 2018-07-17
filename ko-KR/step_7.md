@@ -1,26 +1,26 @@
 ## 타이머 추가하기
 
-+ Create a new variable called 'time'.
++ '시간'이라는 새 변수를 추가합니다.
 
-+ Can you add a timer to your Stage to give your player only 10 seconds to catch as many ghosts as possible?
++ 무대에 타이머를 추가해서 플레이어가 10초 동안만 유령을 잡게 만들 수 있나요?
     
-    Your timer should:
+    타이머는 이렇게 동작해야 해요.
     
-    + Start at 10 seconds
-    + Count down every second
+    + 10초부터 시작합니다.
+    + 매 초 숫자가 줄어듭니다.
     
-    The game should stop when the timer gets to 0.
+    타이머가 0이 되면 게임이 끝나야 합니다.
 
-\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `time` variable should be `set to 10`. It should then `change by -1` every second `until it reaches 0`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- Here's how to add the timer to your game: ![screenshot](images/ghost-timer-code.png)
+\--- hints \--- \--- hint \--- `녹색 깃발을 클릭하면` `time` 변수를 `10으로 설정해야` 합니다. time 변수는 `0이 될 때까지` 매 초마다 `-1만큼 바꿔야` 합니다. \--- /hint \--- \--- hint \--- 다음과 같은 코드 블럭이 필요합니다. ![screenshot](images/ghost-timer-blocks.png) \--- /hint \--- \--- hint \--- 게임에 타이머를 추가하는 방법은 이렇습니다. ![screenshot](images/ghost-timer-code.png)
 
-And this is how to create the `time = 0` block: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
+`time = 0`블럭을 다음처럼 만들 수 있습니다: ![screenshot](images/ghost-timer-help.png) \--- /hint \--- \--- /hints \---
 
-+ Ask a friend to test your game. How many points can they score?
++ 친구에게 게임을 테스트해 보라고 하세요. 몇 점을 획득하나요?
     
-    If your game is too easy, you can:
+    만약 게임이 너무 쉽다면 다음과 같이 바꿀 수 있습니다.
     
-    + Give the player less time
-    + Make the ghosts appear less often
-    + Make the ghosts smaller
+    + 플레이 시간을 줄여 보세요.
+    + 유령이 덜 나타나게 바꿔 보세요.
+    + 유령의 크기를 줄여 보세요.
     
-    Change and test your game a few times until you're happy that it's the right level of difficulty.
+    게임의 난이도가 적절하다고 느껴질 때까지 플레이하면서 게임을 바꿔 보세요.

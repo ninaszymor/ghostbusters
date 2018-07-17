@@ -1,6 +1,6 @@
 ## スコアを追加する
 
-スコアをつけてもっと面白くしましょう！
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

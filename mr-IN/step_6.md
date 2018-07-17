@@ -1,6 +1,6 @@
-## स्कोअर जोडणे
+## Adding a score
 
-स्कोअर ठेवून गोष्टी अधिक मनोरंजक बनवूया!
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

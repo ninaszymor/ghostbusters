@@ -1,6 +1,6 @@
-## Pisteen lisääminen
+## Adding a score
 
-Tehdään asiat mielenkiintoisemmiksi pitämällä pisteet!
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

@@ -1,4 +1,4 @@
-## Introduction
+## भूमिका
 
 You are going to make a ghost-catching game!
 

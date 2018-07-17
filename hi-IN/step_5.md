@@ -1,4 +1,4 @@
-## Catching ghosts
+## बेतरतीब भूत
 
 Let's allow the player to catch ghosts!
 

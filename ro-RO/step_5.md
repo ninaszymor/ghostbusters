@@ -1,4 +1,4 @@
-## Catching ghosts
+## Prinde fantoma
 
 Let's allow the player to catch ghosts!
 
@@ -6,7 +6,7 @@ Let's allow the player to catch ghosts!
 
 You should be able to click ghosts to catch them. If you find the catching difficult, you can play the game in full-screen mode by clicking this button:
 
-![screenshot](images/ghost-fullscreen.png)
+![captură de ecran](images/ghost-fullscreen.png)
 
 \--- hints \--- \--- hint \--- `When clicked`, your ghost sprite should `hide`. \--- /hint \--- \--- hint \--- Your code should look like this: ![screenshot](images/ghost-catch-code.png) \--- /hint \--- \--- /hints \---
 

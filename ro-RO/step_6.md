@@ -1,4 +1,4 @@
-## Adding a score
+## Adăugarea unui scor
 
 Let's make things more interesting by keeping score!
 

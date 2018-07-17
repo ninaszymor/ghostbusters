@@ -1,9 +1,9 @@
-## 必要なもの
+## What you will need
 
-### ハードウェア
+### Hardware
 
-+ Scratch 2.0を実行できるコンピュータ
++ Computer capable of running Scratch 2.0
 
-### ソフトウェア
+### Software
 
-+ スクラッチ2.0（ [オンライン](https://scratch.mit.edu/projects/editor/) または [オフライン](https://scratch.mit.edu/scratch2download/)）
++ Scratch 2.0 (either [online](https://scratch.mit.edu/projects/editor/) or [offline](https://scratch.mit.edu/scratch2download/))

@@ -1,4 +1,4 @@
-## Adding a score
+## भूत पकड़ना
 
 Let's make things more interesting by keeping score!
 

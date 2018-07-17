@@ -1,4 +1,4 @@
-## Adding a timer
+## Agregar un contador de tiempo
 
 + Create a new variable called 'time'.
 

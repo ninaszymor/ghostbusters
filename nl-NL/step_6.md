@@ -1,15 +1,15 @@
-## Een score toevoegen
+## Spoken vangen
 
-Laten we het interessanter maken door de score bij te houden!
+Let's make things more interesting by keeping score!
 
-+ Maak een nieuwe variabele met de naam 'score'.
++ Create a new variable called 'score'.
 
 [[[generic-scratch-add-variable]]]
 
-+ Kun je de score van een speler bijhouden? Spelers zouden punten moeten scoren als ze spoken vangen door er op te klikken.
++ Can you keep track of the player's score? Players should score points by clicking on ghosts to catch them.
     
-    Elke keer dat een speler op een spook klikt, zou de score moeten stijgen.
+    Each time a player clicks on a ghost, their score should increase.
     
-    ![Score ophogen](images/ghost-score-test.png)
+    ![Increasing score](images/ghost-score-test.png)
 
-\--- hints \--- \--- hint \--- `Als er op de groene vlag is geklikt`, zou de variabele `score` op ` 0` moeten staan. Het speelveld is de beste plaats om deze code neer te zetten. ` Als er op de Spook Sprite is geklikt ` wordt de ` score ` met ` 1 ` verhoogd. \--- /hint \--- \--- hint \--- Dit zijn de codeblokken die je nodig hebt: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Zo zou je programma er uit moeten zien: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- `When the green flag is clicked`, your `score` variable should be `set to 0`. The Stage is the best place to add this code. `When the ghost sprite is clicked`, the `score` should be `changed by 1`. \--- /hint \--- \--- hint \--- Here are the code blocks you will need to use: ![screenshot](images/ghost-score-blocks.png) \--- /hint \--- \--- hint \--- Here's how to score points by clicking ghosts: ![screenshot](images/ghost-score-code.png) \--- /hint \--- \--- /hints \---

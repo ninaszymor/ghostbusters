@@ -1,4 +1,4 @@
-## إظهار شبح وإخفاؤه
+## تحريك شبح
 
 + Open a new empty Scratch project.
 
@@ -6,7 +6,7 @@
 
 + Add in a new ghost sprite and a suitable stage backdrop.
     
-    ![screenshot](images/ghost-ghost.png)
+    ![لقطة الشاشة](images/ghost-ghost.png)
 
 [[[generic-scratch-sprite-from-library]]]
 

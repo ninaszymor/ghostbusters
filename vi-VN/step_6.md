@@ -1,6 +1,6 @@
-## Thêm điểm số
+## Adding a score
 
-Hãy làm cho mọi thứ thú vị hơn bằng cách thêm điểm số cho trò chơi!
+Let's make things more interesting by keeping score!
 
 + Create a new variable called 'score'.
 

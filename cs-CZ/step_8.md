@@ -5,19 +5,19 @@
 
 \--- challenge \---
 
-## Challenge: more objects
+## Výzva: více objektů
 
-Can you add other objects to your game?
+Dokážeš přidat do hry další prvky?
 
 ![screenshot](images/ghost-final.png)
 
-When you're adding an object, you need to think about the following things.
+Když přidáváš prvek, přemýšlej o následujících věcech.
 
-+ How big is it?
-+ Will it appear more or less often than the ghost?
-+ What will it look/sound like when it has been caught?
-+ How many points will the player score (or lose) for catching it?
++ Jak velký bude?
++ Objeví se více či méně často než duch?
++ Jak bude vypadat / znít, když bude chyceno?
++ Kolik bodů získá hráč (nebo ztratí) za jeho chycení?
 
-If you need help adding another object, you can reuse the steps above!
+Pokud potřebuješ pomoci s přidáním dalšího objektu, můžeš znovu použít dříve uvedené kroky!
 
 \--- /challenge \---

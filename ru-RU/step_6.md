@@ -1,4 +1,4 @@
-## Adding a score
+## Добавление баллов
 
 Let's make things more interesting by keeping score!
 

@@ -1,0 +1,32 @@
+---
+title: Охотники за привидениями
+hero_image: images/ghostbusters.png
+description: Сделай игру о ловле привидений!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: green
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: games
+technologies: scratch
+site_areas: codeclub, scratch
+steps:
+  - 
+    title: Введение
+  - 
+    title: What you'll need
+  - 
+    title: Анимация призрака
+  - 
+    title: Случайные призраки
+  - 
+    title: Ловля призраков
+  - 
+    title: Добавление баллов
+  - 
+    title: Добавление таймера
+  - 
+    title: 'Задача: больше объектов'
+

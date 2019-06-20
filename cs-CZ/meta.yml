@@ -1,0 +1,32 @@
+---
+title: Krotitelé duchů
+hero_image: images/ghostbusters.png
+description: Udělej hru o chytání duchů!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: green
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: games
+technologies: scratch
+site_areas: codeclub, scratch
+steps:
+  - 
+    title: Úvod
+  - 
+    title: What you'll need
+  - 
+    title: Animace ducha
+  - 
+    title: Náhodní duchové
+  - 
+    title: Chytání duchů
+  - 
+    title: Přidání skóre
+  - 
+    title: Přidání časovače
+  - 
+    title: 'Výzva: více objektů'
+

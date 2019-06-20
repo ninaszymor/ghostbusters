@@ -1,0 +1,32 @@
+---
+title: Мисливці за привидами
+hero_image: images/ghostbusters.png
+description: Зробіть гру про полювання на привидів!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: green
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: ігри
+technologies: scratch
+site_areas: codeclub, scratch
+steps:
+  - 
+    title: Вступ
+  - 
+    title: What you'll need
+  - 
+    title: Animating a ghost
+  - 
+    title: Random ghosts
+  - 
+    title: Catching ghosts
+  - 
+    title: Adding a score
+  - 
+    title: Adding a timer
+  - 
+    title: 'Challenge: більше предметів'
+

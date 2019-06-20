@@ -1,0 +1,32 @@
+---
+title: Ghostbusters
+hero_image: images/ghostbusters.png
+description: Make a game about catching ghosts!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: green
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: games
+technologies: scratch
+site_areas: codeclub, scratch
+steps:
+  - 
+    title: Introduction
+  - 
+    title: What you'll need
+  - 
+    title: Fantoma animată
+  - 
+    title: Fantome la întâmplare
+  - 
+    title: Prinde fantoma
+  - 
+    title: Adăugarea unui scor
+  - 
+    title: Adăugarea unui cronometru
+  - 
+    title: 'Provocare: mai multe obiecte'
+

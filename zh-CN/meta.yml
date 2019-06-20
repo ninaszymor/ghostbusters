@@ -1,0 +1,32 @@
+---
+title: 捉鬼敢死队
+hero_image: images/ghostbusters.png
+description: 制作一个捉鬼的游戏！
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: green
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: games
+technologies: scratch
+site_areas: codeclub, scratch
+steps:
+  - 
+    title: 简介
+  - 
+    title: What you'll need
+  - 
+    title: 你将需要什么
+  - 
+    title: 制作鬼怪动画
+  - 
+    title: 随机鬼怪
+  - 
+    title: 捉鬼
+  - 
+    title: 添加分数
+  - 
+    title: '挑战：更多元素'
+

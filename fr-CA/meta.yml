@@ -1,0 +1,32 @@
+---
+title: SOS Fantômes
+hero_image: images/ghostbusters.png
+description: Faire un jeu sur l’interception des fantômes !
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: vert
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: jeu
+technologies: scratch
+site_areas: codeclub, scratch
+steps:
+  - 
+    title: Introduction
+  - 
+    title: What you'll need
+  - 
+    title: Animer un fantôme
+  - 
+    title: Fantômes aléatoires
+  - 
+    title: Attraper des fantômes
+  - 
+    title: Ajouter un score
+  - 
+    title: Ajouter un chronomètre
+  - 
+    title: 'Défi: plus d''objets'
+

@@ -1,0 +1,32 @@
+---
+title: Ghostbusters
+hero_image: Kuvien / ghostbusters.png
+description: Tee peli haamujen tarttumisesta!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters
+theme: vihreä
+listed: true
+copyedit: true
+ingredient: false
+duration: 2
+curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: pelit
+technologies: naarmu
+site_areas: codeclub, scratch
+steps:
+  - 
+    title: esittely
+  - 
+    title: What you'll need
+  - 
+    title: Animating a ghost
+  - 
+    title: Random ghosts
+  - 
+    title: Catching ghosts
+  - 
+    title: Adding a score
+  - 
+    title: Adding a timer
+  - 
+    title: 'Haaste: enemmän esineitä'
+
